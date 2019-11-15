@@ -15,20 +15,23 @@ The spatially enabled dataframe (a.k.a. "*spatial dataframe*", "*sdf*", or "*geo
 
 ## Exercises
 
-### 1. Creating spatial dataframes from CSV file
+### 1. Creating spatial dataframes using GeoPandas and the ArcGIS Python API:  
 
-* Geopandas: `1a-CSV-to-GeoDataFrame-GeoPandas`
-* ArcGIS Python API: `1b-CSV-to-SpatialDataFrame-ArcGIS-API`
+* From CSV files: `01-CSV-to-SpatialDataFrame.ipnyb`
+* From FeatureClasses: `02-FeatureClass-to-SpatialDataFrame.ipynb`
 
-### 2. Creating spatial dataframes from other file types
+### 2. Spatial analysis using spatial dataframes
 
-* JSON and GeoJSON: `2a-JSON-to-SpatialDataFrame`
-* Shapefiles: `2b-Shapefiles-to-SpatialDataframe`
+* Beginners: `3-Spatial-analysis-with-GeoDataframes.ipynb`
+* Advanced: `4-Advanced-GeoPandas.ipynb`
 
-### 3. Spatial analysis & visualization using spatial dataframes
+### 3. Data visualization with dataframes and spatial dataframes
 
-* GeoPandas: `3a-Spatial-analysis-with-Geopandas.ipynb`
-* Advanced Analysis: `3b-Advanced-GeoPandas.ipynb`
+* Plots and graphs with Pandas
+* Plots and graphs with MatPlotlib
+* Plots and graphs with Plotnine (ggplot)
+* Making maps with Geopandas
+* Making maps with the ArcGIS Python API
 
 
 
