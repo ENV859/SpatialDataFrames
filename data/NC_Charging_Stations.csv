@@ -1,0 +1,739 @@
+index,Fuel Type Code,Station Name,City,State,ZIP,Status Code,Groups With Access Code,Latitude,Longitude,ID,Updated At,Country,Groups With Access Code (French),Access Code
+312,ELEC,DUKE ENERGY,Charlotte,NC,28202,E,Public,35.2269135,-80.8501816,38892,2019-11-14 10:14:28 UTC,US,Public,public
+332,ELEC,City of Raleigh - Municipal Building,Raleigh,NC,27601,E,Public,35.778416,-78.64347,39016,2019-11-08 19:38:10 UTC,US,Public,public
+333,ELEC,City of Raleigh - Downtown,Raleigh,NC,27601,E,Public,35.77435,-78.642287,39017,2019-11-08 19:38:10 UTC,US,Public,public
+621,ELEC,Modern Nissan - Concord,Concord,NC,28027,E,Public - Call ahead,35.392063,-80.622777,40066,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+622,ELEC,Fred Anderson Nissan,Fayetteville,NC,28304,E,Public - Call ahead,35.042419,-78.956747,40067,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+623,ELEC,Vann Yorks High Point Nissan,High Point,NC,27260,E,Public - Call ahead,35.937981,-79.996012,40068,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+624,ELEC,Nissan of Lumberton,Lumberton,NC,28358,E,Public - Call ahead,34.634487,-78.997134,40069,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+625,ELEC,Green Square Public Parking Garage - Level B1,Raleigh,NC,27603,E,Public,35.78136,-78.6412,40070,2019-10-04 14:44:17 UTC,US,Public,public
+626,ELEC,Green Square Public Parking Garage - Level P1,Raleigh,NC,27603,E,Private,35.78136,-78.6412,40072,2019-05-14 21:16:45 UTC,US,Privé,private
+682,ELEC,City of Raleigh - City Center Deck,Raleigh,NC,27601,E,Public,35.774619,-78.637705,40744,2019-11-08 19:38:10 UTC,US,Public,public
+683,ELEC,Marriott Hotel Underground Deck,Raleigh,NC,27601,E,Public,35.772881,-78.638502,40745,2019-11-08 19:38:10 UTC,US,Public,public
+684,ELEC,City of Raleigh - Performing Arts Center Deck,Raleigh,NC,27601,E,Public,35.772619,-78.641492,40747,2019-11-08 19:38:10 UTC,US,Public,public
+685,ELEC,City of Raleigh - Wilmington Station Deck,Raleigh,NC,27601,E,Public,35.77937,-78.638203,40751,2019-11-08 19:38:10 UTC,US,Public,public
+698,ELEC,Neal's Garage,Durham,NC,27705,E,Public,36.009999,-78.921405,40854,2019-10-04 14:44:17 UTC,US,Public,public
+767,ELEC,Wilkerson Nature Preserve Park,Raleigh,NC,27614,E,Public,35.92353,-78.599883,41553,2019-11-08 19:38:10 UTC,US,Public,public
+804,ELEC,CLT AIRPORT,Charlotte,NC,28208,E,Public,35.232643,-80.933936,41847,2019-11-14 10:14:28 UTC,US,Public,public
+888,ELEC,City Municipal Deck,Raleigh,NC,27601,E,Public,35.779082,-78.641779,42396,2019-11-08 19:38:10 UTC,US,Public,public
+889,ELEC,City of Raleigh,Raleigh,NC,27601,E,Public,35.777283,-78.639281,42397,2019-11-08 19:38:10 UTC,US,Public,public
+890,ELEC,City of Raleigh - Walnut Creek Wetland Center,Raleigh,NC,27610,E,Public,35.760404,-78.625005,42398,2019-11-08 19:38:10 UTC,US,Public,public
+891,ELEC,City of Raleigh - Optimist Park and Community Center,Raleigh,NC,27609,E,Public,35.862603,-78.643641,42399,2019-11-08 19:38:10 UTC,US,Public,public
+892,ELEC,City of Raleigh - Jaycee Park and Community Center,Raleigh,NC,27607,E,Public,35.800443,-78.663445,42400,2019-11-08 19:38:10 UTC,US,Public,public
+893,ELEC,City of Raleigh - Wilders Grove,Raleigh,NC,27610,E,Public,35.788789,-78.573106,42401,2019-11-08 19:38:10 UTC,US,Public,public
+894,ELEC,City of Raleigh - Transit Center,Raleigh,NC,27610,E,Private,35.767483,-78.563464,42402,2019-11-08 19:38:10 UTC,US,Privé,private
+895,ELEC,City of Raleigh - Transit Center,Raleigh,NC,27610,E,Public,35.767483,-78.563464,42403,2019-11-08 19:38:10 UTC,US,Public,public
+954,ELEC,The Green Parking Garage,Charlotte,NC,28202,E,Public,35.223874,-80.846273,42927,2019-10-04 14:44:17 UTC,US,Public,public
+962,ELEC,North Hills,Raleigh,NC,27609,E,Public,35.83788,-78.642,43088,2019-10-04 14:44:17 UTC,US,Public,public
+1004,ELEC,North Carolina State University - McKimmon Center and Solar House,Raleigh,NC,27606,E,Public,35.78214,-78.6864,43324,2019-10-04 14:44:17 UTC,US,Public,public
+1007,ELEC,Taylor Automotive,Sanford,NC,27330,E,Public,35.49416,-79.180591,43363,2019-05-14 21:16:45 UTC,US,Public,public
+1053,ELEC,Carolina Nissan,Burlington,NC,27215,E,Public - Call ahead,36.063557,-79.503697,43876,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1054,ELEC,Carolina Nissan,Burlington,NC,27215,E,Private,36.063557,-79.503697,43877,2019-09-09 14:29:53 UTC,US,Privé,private
+1055,ELEC,North Carolina State University - Joyner Visitor Center,Raleigh,NC,27606,E,Public,35.784037,-78.684667,43880,2019-10-04 14:44:17 UTC,US,Public,public
+1149,ELEC,Northern Wake Tech Community College,Raleigh,NC,27616,E,Public,35.867552,-78.543695,44301,2019-10-04 14:44:17 UTC,US,Public,public
+1150,ELEC,Whole Foods Market,Raleigh,NC,27615,E,Public,35.898899,-78.650239,44302,2019-10-04 14:44:17 UTC,US,Public,public
+1217,ELEC,Asheville Chamber of Commerce & Visitors Center,Asheville,NC,28801,E,Public,35.597527,-82.560582,44376,2019-10-04 14:44:17 UTC,US,Public,public
+1218,ELEC,College Street Parking Deck,Asheville,NC,28801,E,Public - Call ahead,35.597377,-82.549206,44377,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+1219,ELEC,Ingles Markets - Skyland Plaza,Asheville,NC,28803,E,Public,35.499836,-82.522586,44378,2019-10-04 14:44:17 UTC,US,Public,public
+1302,ELEC,FAYETTEVILLE NC,Fayetteville,NC,28301,E,Public,35.052493,-78.880384,44944,2019-11-14 10:14:28 UTC,US,Public,public
+1500,ELEC,TOWN OF CARY,Cary,NC,27513,E,Public,35.7968864,-78.8080444,45853,2019-11-14 10:14:28 UTC,US,Public,public
+1501,ELEC,"CHARLOTTE, NC",Charlotte,NC,28202,E,Public,35.222219,-80.839351,45854,2019-11-14 10:14:28 UTC,US,Public,public
+1502,ELEC,"CHARLOTTE, NC",Charlotte,NC,28202,E,Public,35.2274543,-80.842849,45856,2019-11-14 10:14:28 UTC,US,Public,public
+1503,ELEC,"CHARLOTTE, NC",Charlotte,NC,28262,E,Public,35.324191,-80.773292,45858,2019-11-14 10:14:28 UTC,US,Public,public
+1601,ELEC,Makoto's Japanese Steak House & Sushi Bar,Boone,NC,28607,E,Public,36.195534,-81.654229,46200,2019-10-04 14:44:17 UTC,US,Public,public
+1615,ELEC,BECO South,Charlotte,NC,28262,E,Public,35.30894179,-80.76768107,46403,2019-10-04 14:44:17 UTC,US,Public,public
+1616,ELEC,City of Durham - Goldenbelt,Durham,NC,27701,E,Public,35.99017,-78.8902,46406,2019-10-04 14:44:17 UTC,US,Public,public
+1617,ELEC,Michael Jordan Nissan,Durham,NC,27707,E,Public - Call ahead,35.97051751,-78.95684759,46407,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1921,ELEC,Friendship Nissan,Forest City,NC,28043,E,Public - Call ahead,35.334675,-81.892822,46996,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1922,ELEC,Friendship Nissan,Forest City,NC,28043,E,Private,35.334675,-81.892822,46997,2019-09-09 14:29:53 UTC,US,Privé,private
+1923,ELEC,Gastonia Nissan,Gastonia,NC,28054,E,Public - Call ahead,35.258815,-81.129079,46998,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1924,ELEC,Gastonia Nissan,Gastonia,NC,28054,E,Private,35.258815,-81.129079,46999,2019-09-09 14:29:53 UTC,US,Privé,private
+1925,ELEC,Deacon Jones Nissan,Goldsboro,NC,27530,E,Public - Call ahead,35.400146,-78.014743,47000,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+1926,ELEC,Crown Nissan,Greensboro,NC,27407,E,Public - Call ahead,36.060425,-79.876676,47003,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1927,ELEC,Crown Nissan,Greensboro,NC,27407,E,Private,36.060425,-79.876676,47004,2019-09-09 14:29:53 UTC,US,Privé,private
+1928,ELEC,Greenville Nissan,Greenville,NC,27834,E,Public - Call ahead,35.571982,-77.408327,47005,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1929,ELEC,Greenville Nissan,Greenville,NC,27834,E,Private,35.571982,-77.408327,47006,2019-09-09 14:29:53 UTC,US,Privé,private
+1930,ELEC,City of Hendersonville - Dogwood Parking Lot,Hendersonville,NC,28792,E,Public,35.316931,-82.461565,47007,2019-10-04 14:44:17 UTC,US,Public,public
+1931,ELEC,Hunter Nissan,Hendersonville,NC,28792,E,Public - Call ahead,35.301937,-82.440374,47008,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1932,ELEC,Hunter Nissan,Hendersonville,NC,28792,E,Private,35.301937,-82.440374,47009,2019-09-09 14:29:53 UTC,US,Privé,private
+1933,ELEC,Modern Nissan - Hickory,Hickory,NC,28602,E,Public - Call ahead,35.710136,-81.321182,47010,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1934,ELEC,Modern Nissan - Hickory,Hickory,NC,28602,E,Private,35.710136,-81.321182,47011,2019-09-09 14:29:53 UTC,US,Privé,private
+1935,ELEC,Vann Yorks High Point Nissan,High Point,NC,27260,E,Private,35.937981,-79.996012,47012,2019-09-09 14:29:53 UTC,US,Privé,private
+1936,ELEC,Don Williamson Nissan,Jacksonville,NC,28546,E,Public - Call ahead,34.761337,-77.381386,47013,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1937,ELEC,Don Williamson Nissan,Jacksonville,NC,28546,E,Private,34.761337,-77.381386,47014,2019-09-09 14:29:53 UTC,US,Privé,private
+1938,ELEC,Montreat College,Montreat,NC,28757,E,Public,35.64569,-82.296916,47017,2019-10-04 14:44:17 UTC,US,Public,public
+1939,ELEC,Eastern Carolina Nissan,New Bern,NC,28560,E,Public - Call ahead,35.048239,-77.014397,47018,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1940,ELEC,Eastern Carolina Nissan,New Bern,NC,28560,E,Private,35.048239,-77.014397,47019,2019-09-09 14:29:53 UTC,US,Privé,private
+1941,ELEC,Reidsville Nissan,Reidsville,NC,27320,E,Public - Call ahead,36.323241,-79.686657,47024,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1942,ELEC,Reidsville Nissan,Reidsville,NC,27320,E,Private,36.323241,-79.686657,47025,2019-09-09 14:29:53 UTC,US,Privé,private
+1943,ELEC,Nissan of Roanoke Rapids,Roanoke Rapids,NC,27870,E,Public - Call ahead,36.42331,-77.635287,47026,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1944,ELEC,Griffin Nissan,Rockingham,NC,28379,E,Public - Call ahead,34.918104,-79.744733,47028,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1945,ELEC,Simmons Nissan,Mount Airy,NC,27030,E,Public - Call ahead,36.480616,-80.616003,47029,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1946,ELEC,Simmons Nissan,Mount Airy,NC,27030,E,Private,36.480616,-80.616003,47030,2019-09-09 14:29:53 UTC,US,Privé,private
+1947,ELEC,Griffin Nissan,Rockingham,NC,28379,E,Private,34.918104,-79.744733,47031,2019-09-09 14:29:53 UTC,US,Privé,private
+1948,ELEC,Ben Mynatt Nissan,Salisbury,NC,28147,E,Public - Call ahead,35.644549,-80.488272,47032,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1949,ELEC,Ben Mynatt Nissan,Salisbury,NC,28147,E,Private,35.644549,-80.488272,47033,2019-09-09 14:29:53 UTC,US,Privé,private
+1950,ELEC,Classic Nissan - Sanford,Sanford,NC,27332,E,Public - Call ahead,35.44411,-79.1282,47034,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1951,ELEC,Classic Nissan - Sanford,Sanford,NC,27332,E,Private,35.44411,-79.1282,47035,2019-09-09 14:29:53 UTC,US,Privé,private
+1952,ELEC,Pinehurst Nissan,Southern Pines,NC,28387,E,Public - Call ahead,35.161067,-79.421191,47036,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1953,ELEC,Pinehurst Nissan,Southern Pines,NC,28387,E,Private,35.161067,-79.421191,47037,2019-09-09 14:29:53 UTC,US,Privé,private
+1954,ELEC,Classic Nissan - Statesville,Statesville,NC,28677,E,Public - Call ahead,35.770417,-80.858363,47038,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1955,ELEC,Crossroads Nissan - Wake Forest,Wake Forest,NC,27587,E,Public - Call ahead,35.948971,-78.539171,47040,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1956,ELEC,Crossroads Nissan - Wake Forest,Wake Forest,NC,27587,E,Private,35.948971,-78.539171,47041,2019-09-09 14:29:53 UTC,US,Privé,private
+1957,ELEC,Wilkes Nissan,Wilkesboro,NC,28697,E,Public - Call ahead,36.149969,-81.202184,47042,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1958,ELEC,Wilkes Nissan,Wilkesboro,NC,28697,E,Private,36.149969,-81.202184,47043,2019-09-09 14:29:53 UTC,US,Privé,private
+1959,ELEC,Capital Nissan - Wilmington,Wilmington,NC,28405,E,Public - Call ahead,34.24769,-77.865815,47044,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1960,ELEC,Capital Nissan - Wilmington,Wilmington,NC,28405,E,Private,34.24769,-77.865815,47045,2019-09-09 14:29:53 UTC,US,Privé,private
+1961,ELEC,Lee Nissan,Wilson,NC,27896,E,Public - Call ahead,35.756003,-77.9753,47046,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1962,ELEC,Lee Nissan,Wilson,NC,27896,E,Private,35.756003,-77.9753,47047,2019-09-09 14:29:53 UTC,US,Privé,private
+1963,ELEC,Modern Nissan,Winston-Salem,NC,27105,E,Public - Call ahead,36.179741,-80.275364,47048,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+1964,ELEC,Modern Nissan,Winston-Salem,NC,27105,E,Private,36.179741,-80.275364,47049,2019-09-09 14:29:53 UTC,US,Privé,private
+2006,ELEC,East Charlotte Nissan,Charlotte,NC,28227,E,Public - Call ahead,35.167774,-80.742259,47117,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2007,ELEC,East Charlotte Nissan,Charlotte,NC,28227,E,Private,35.167774,-80.742259,47118,2019-09-09 14:29:53 UTC,US,Privé,private
+2008,ELEC,Scott Clark Nissan,Charlotte,NC,28273,E,Public - Call ahead,35.111292,-80.881867,47119,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2009,ELEC,Scott Clark Nissan,Charlotte,NC,28273,E,Private,35.111292,-80.881867,47120,2019-09-09 14:29:53 UTC,US,Privé,private
+2010,ELEC,Haywood Community College,Clyde,NC,28721,E,Public,35.525966,-82.927696,47121,2019-10-04 14:44:17 UTC,US,Public,public
+2011,ELEC,Modern Nissan - Concord,Concord,NC,28027,E,Private,35.392063,-80.622777,47122,2019-09-09 14:29:53 UTC,US,Privé,private
+2012,ELEC,Modern Nissan - Lake Norman,Cornelius,NC,28031,E,Public - Call ahead,35.467117,-80.872205,47123,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2013,ELEC,Modern Nissan - Lake Norman,Cornelius,NC,28031,E,Private,35.467117,-80.872205,47124,2019-09-09 14:29:53 UTC,US,Privé,private
+2014,ELEC,Durham County - Human Services Building Lot,Durham,NC,27701,E,Public,35.99112,-78.895,47125,2019-10-04 14:44:17 UTC,US,Public,public
+2015,ELEC,Durham County - Justice Center Parking Deck,Durham,NC,27701,E,Public,35.99289,-78.9014,47126,2019-10-04 14:44:17 UTC,US,Public,public
+2016,ELEC,Durham County - Main Library,Durham,NC,27701,T,TEMPORARILY UNAVAILABLE (Public),35.99491,-78.8959,47127,2019-10-04 14:44:17 UTC,US,TEMPORAIREMENT SUSPENDU (Public),public
+2017,ELEC,Durham County - North Regional Library,Durham,NC,27712,E,Public,36.08785,-78.9135,47128,2019-10-04 14:44:17 UTC,US,Public,public
+2018,ELEC,Durham County - South Regional Library,Durham,NC,27713,E,Public,35.90237,-78.8883,47129,2019-10-04 14:44:17 UTC,US,Public,public
+2019,ELEC,Nissan of Elizabeth City,Elizabeth City,NC,27909,E,Public - Call ahead,36.339936,-76.244936,47130,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2020,ELEC,Nissan of Elizabeth City,Elizabeth City,NC,27909,E,Private,36.339936,-76.244936,47131,2019-09-09 14:29:53 UTC,US,Privé,private
+2021,ELEC,Fred Anderson Nissan,Fayetteville,NC,28304,E,Private,35.042419,-78.956747,47132,2019-09-09 14:29:53 UTC,US,Privé,private
+2067,ELEC,Asheboro Nissan,Asheboro,NC,27203,E,Public - Call ahead,35.70436,-79.781736,47184,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2068,ELEC,Asheboro Nissan,Asheboro,NC,27203,E,Private,35.70436,-79.781736,47185,2019-09-09 14:29:53 UTC,US,Privé,private
+2069,ELEC,Anderson Nissan,Asheville,NC,28806,E,Public - Call ahead,35.547866,-82.599474,47186,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2070,ELEC,Anderson Nissan,Asheville,NC,28806,E,Private,35.547866,-82.599474,47187,2019-09-09 14:29:53 UTC,US,Privé,private
+2071,ELEC,Black Mountain Public Safety Building,Black Mountain,NC,28711,E,Public,35.619218,-82.320192,47189,2019-10-04 14:44:17 UTC,US,Public,public
+2072,ELEC,AutoStar Nissan - Boone,Boone,NC,28607,E,Public - Call ahead,36.222243,-81.635571,47190,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2073,ELEC,AutoStar Nissan - Boone,Boone,NC,28607,E,Private,36.222243,-81.635571,47191,2019-09-09 14:29:53 UTC,US,Privé,private
+2074,ELEC,Leith Nissan,Cary,NC,27511,E,Public - Call ahead,35.7390019,-78.8138134,47192,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2075,ELEC,Leith Nissan,Cary,NC,27511,E,Private,35.7390019,-78.8138134,47193,2019-09-09 14:29:53 UTC,US,Privé,private
+2114,ELEC,Orange County - Robert and Pearl Seymour Center,Chapel Hill,NC,27516,E,Public,35.950629,-79.063354,47332,2019-05-14 21:16:45 UTC,US,Public,public
+2115,ELEC,Orange County - Skills Development Center,Chapel Hill,NC,27516,E,Public,35.909907,-79.06344,47333,2019-05-14 21:16:45 UTC,US,Public,public
+2116,ELEC,Orange County - Durham Technical Community College Park & Ride Lot,Hillsborough,NC,27278,E,Public,36.04236,-79.09323,47334,2019-10-04 14:44:17 UTC,US,Public,public
+2264,ELEC,Umstead Hotel and Spa,Cary,NC,27513,E,Public,35.82973,-78.7646,47718,2019-10-04 14:44:17 UTC,US,Public,public
+2265,ELEC,Mayfair Town Center,Wilmington,NC,28405,E,Public,34.24358,-77.8315,47720,2019-10-04 14:44:17 UTC,US,Public,public
+2415,ELEC,Cherokee Welcome Center,Cherokee,NC,28719,E,Public,35.483554,-83.31624,48044,2019-09-23 16:27:49 UTC,US,Public,public
+2416,ELEC,Boyd Automotive,Hendersonville,NC,28792,E,Public - Call ahead,35.294913,-82.432913,48045,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+2634,ELEC,Asheville Chevrolet,Asheville,NC,28806,E,Public - Call ahead,35.563115,-82.630535,48678,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+2635,ELEC,Blue Ridge Community College - Spearman Building,Flat Rock,NC,28731,E,Public,35.306506,-82.421425,48682,2019-10-04 14:44:17 UTC,US,Public,public
+2664,ELEC,Volvo Group North America,Greensboro,NC,27409,E,Private,36.082073,-79.967315,48863,2019-10-04 14:44:17 UTC,US,Privé,private
+2952,ELEC,Town of Cary - Town Hall,Cary,NC,27513,E,Public,35.790599,-78.780497,49873,2019-10-04 14:44:17 UTC,US,Public,public
+2953,ELEC,Nissan of Clinton,Clinton,NC,28328,E,Public - Call ahead,34.999456,-78.309597,49874,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+2954,ELEC,Nissan of Clinton,Clinton,NC,28328,E,Private,34.999456,-78.309597,49875,2019-09-09 14:29:53 UTC,US,Privé,private
+2955,ELEC,Rex Hospital,Raleigh,NC,27607,E,Public,35.815458,-78.705032,49878,2019-05-14 21:16:45 UTC,US,Public,public
+2956,ELEC,Wake Technical Community College,Raleigh,NC,27603,E,Public,35.650348,-78.70739,49881,2019-10-04 14:44:17 UTC,US,Public,public
+2957,ELEC,Town of Southern Pines - Library,Southern Pines,NC,28387,E,Public,35.176173,-79.390553,49882,2019-10-04 14:44:17 UTC,US,Public,public
+2958,ELEC,City of Wilmington - Market Street Parking Deck,Wilmington,NC,28401,E,Public,34.235678,-77.948353,49883,2019-10-04 14:44:17 UTC,US,Public,public
+2959,ELEC,Tidal Creek Co-op Food Market,Wilmington,NC,28403,E,Public,34.209021,-77.860838,49884,2019-10-04 14:44:17 UTC,US,Public,public
+3058,ELEC,Buncombe County - Health and Human Services,Asheville,NC,28801,E,Public,35.593656,-82.555258,50172,2019-05-14 21:16:45 UTC,US,Public,public
+3064,ELEC,Buncombe County Interchange Building,Asheville,NC,28801,E,Private - Government only,35.599429,-82.546527,50392,2019-10-04 14:44:17 UTC,US,Privé - Réservé au gouvernement,private
+3065,ELEC,Orange County - West Campus Office Building,Hillsborough,NC,27278,E,Public,36.073889,-79.100586,50393,2019-05-14 21:16:45 UTC,US,Public,public
+3110,ELEC,SAS Institute Inc - T,Cary,NC,27513,E,Private,35.823796,-78.752235,50688,2019-11-08 19:38:10 UTC,US,Privé,private
+3111,ELEC,SAS Institute Inc - C,Cary,NC,27513,E,Private,35.817516,-78.751668,50689,2019-11-08 19:38:10 UTC,US,Privé,private
+3112,ELEC,Central Parking - Fifth Third Center,Charlotte,NC,28202,E,Public,35.228923,-80.841769,50690,2019-10-04 14:44:17 UTC,US,Public,public
+3113,ELEC,Levine Properties,Charlotte,NC,28202,E,Public,35.228706,-80.834507,50691,2019-10-31 18:23:17 UTC,US,Public,public
+3114,ELEC,Secure Parking - BAC Parking Deck,Charlotte,NC,28202,E,Public,35.226655,-80.840749,50692,2019-06-06 17:52:59 UTC,US,Public,public
+3115,ELEC,Secure Parking - Hearst Tower Deck,Charlotte,NC,28202,E,Public,35.227616,-80.84119,50693,2019-10-04 14:44:17 UTC,US,Public,public
+3116,ELEC,McCurry Deck Chevrolet,Forest City,NC,28043,E,Public - Call ahead,35.312853,-81.878889,50696,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+3117,ELEC,McCurry Deck Chevrolet,Forest City,NC,28043,E,Private,35.312853,-81.878889,50697,2019-05-14 21:16:45 UTC,US,Privé,private
+3118,ELEC,Gastonia Conference Center,Gastonia,NC,28052,E,Public,35.262936,-81.182459,50698,2019-10-04 14:44:17 UTC,US,Public,public
+3166,ELEC,Albemarle Corp,Kings Mountain,NC,28086,E,Private,35.225378,-81.337114,50850,2019-10-28 20:16:42 UTC,US,Privé,private
+3271,ELEC,Town of Cary - Cary Arts Center,Cary,NC,27511,E,Public,35.782702,-78.781262,51670,2019-10-04 14:44:17 UTC,US,Public,public
+3400,ELEC,West Regional Library,Cary,NC,27519,E,Public,35.815061,-78.864062,52057,2019-10-04 14:44:17 UTC,US,Public,public
+3401,ELEC,East Regional Library,Knightdale,NC,27545,E,Public,35.802473,-78.487298,52058,2019-10-04 14:44:17 UTC,US,Public,public
+3443,ELEC,Woodlawn Funeral Home,Mt. Holly,NC,28120,E,Public - Call ahead,35.3041747,-81.0210277,52376,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+3444,ELEC,Capital Ford,Raleigh,NC,27616,E,Public - Call ahead,35.853054,-78.579543,52377,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+3445,ELEC,Capital Ford,Raleigh,NC,27616,E,Public - Call ahead,35.862553,-78.696855,52378,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+3484,ELEC,TOOLWELL,Charlotte,NC,28273,E,Public,35.135768,-80.9078076,52573,2019-11-14 10:14:28 UTC,US,Public,public
+3538,ELEC,Electric Power Research Institute (EPRI) - Charlotte,Charlotte,NC,28262,E,Private,35.316239,-80.767057,52799,2019-10-21 20:11:21 UTC,US,Privé,private
+3539,ELEC,"CHARLOTTE, NC",Charlotte,NC,28205,E,Public,35.2253801,-80.8221338,52800,2019-11-14 10:14:28 UTC,US,Public,public
+3599,ELEC,UNC,Chapel Hill,NC,27514,E,Public,35.9114865,-79.0452047,53105,2019-11-14 10:14:28 UTC,US,Public,public
+3704,ELEC,CrossRoads Ford,Cary,NC,27511,E,Public - Call ahead,35.753616,-78.739497,53884,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+3705,ELEC,Mooresville Ford,Mooresville,NC,28115,E,Public,35.589615,-80.834215,53885,2019-10-04 14:44:17 UTC,US,Public,public
+3706,ELEC,Steak 'n Shake,Weaverville,NC,28787,E,Public,35.7027,-82.5758,53887,2019-05-14 21:16:45 UTC,US,Public,public
+3876,ELEC,BSMG,Durham,NC,27701,E,Public,35.99384,-78.905162,57800,2019-11-14 10:14:28 UTC,US,Public,public
+3895,ELEC,UNC,Chapel Hill,NC,27514,E,Public,35.9007849,-79.0462787,58187,2019-11-14 10:14:28 UTC,US,Public,public
+3996,ELEC,Stone's Education Superstore,Raleigh,NC,27607,E,Public,35.793985,-78.750329,60264,2019-10-04 14:44:17 UTC,US,Public,public
+4029,ELEC,BMW HENDRICK NC,Charlotte,NC,28227,E,Public,35.1661564,-80.7427681,60417,2019-11-14 10:14:28 UTC,US,Public,public
+4030,ELEC,HENDRICK BMW NL,Charlotte,NC,28269,E,Public,35.3686708,-80.8319098,60418,2019-11-14 10:14:28 UTC,US,Public,public
+4113,ELEC,FLOW BMW,Winston-Salem,NC,27127,E,Public,36.0601753,-80.2581742,60749,2019-11-14 10:14:28 UTC,US,Public,public
+4126,ELEC,BMW  ASHEVILLE,Fletcher,NC,28732,E,Public,35.4384307,-82.5356201,60789,2019-11-14 10:14:28 UTC,US,Public,public
+4151,ELEC,LEITH BMW,Raleigh,NC,27616,E,Public,35.8633385,-78.5831355,60861,2019-11-14 10:14:28 UTC,US,Public,public
+4281,ELEC,Fred Anderson Nissan,Raleigh,NC,27617,E,Public - Call ahead,35.896757,-78.760671,61410,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+4282,ELEC,Fred Anderson Nissan,Raleigh,NC,27617,E,Private,35.896757,-78.760671,61411,2019-09-09 14:29:53 UTC,US,Privé,private
+4331,ELEC,CROWN BMW,Greensboro,NC,27407,E,Public,36.0604918,-79.8777206,61520,2019-11-14 10:14:28 UTC,US,Public,public
+4334,ELEC,Imperial Center,Durham,NC,27703,E,Public,35.877097,-78.842616,61524,2019-10-04 14:44:17 UTC,US,Public,public
+4337,ELEC,Alphainstall.com Building,Pittsboro,NC,27312,E,Public - Call ahead,35.729727,-79.176032,61530,2019-11-08 19:38:10 UTC,US,Public - Appeler à l'avance,public
+4365,ELEC,VALLEY BMW,Fayetteville,NC,28303,E,Public,35.0800092,-78.9468895,61619,2019-11-14 10:14:28 UTC,US,Public,public
+4389,ELEC,GASTON COUNTY,Belmont,NC,28012,E,Public,35.2566002,-81.0427959,61737,2019-11-14 10:14:28 UTC,US,Public,public
+4390,ELEC,GASTON COUNTY,Lowell,NC,28098,E,Public,35.2672937,-81.0980338,61738,2019-11-14 10:14:28 UTC,US,Public,public
+4410,ELEC,UNC,Chapel Hill,NC,27599,E,Public,35.9329982,-79.0579388,61811,2019-11-14 10:14:28 UTC,US,Public,public
+4414,ELEC,Town of Apex - Saunders Street Parking Lot,Apex,NC,25702,E,Public,35.7318283,-78.8544049,61816,2019-10-04 14:44:17 UTC,US,Public,public
+4422,ELEC,PERFORMANCE BMW,Chapel Hill,NC,27514,E,Public,35.9453628,-79.0092813,61845,2019-11-14 10:14:28 UTC,US,Public,public
+4531,ELEC,Echoview Fiber Mill,Weaverville,NC,28787,E,Public,35.759451,-82.54994,62280,2019-10-04 14:44:17 UTC,US,Public,public
+4540,ELEC,Skyland Automotive,Asheville,NC,28806,E,Private,35.562735,-82.63133,62314,2019-09-30 21:29:55 UTC,US,Privé,private
+4541,ELEC,North Carolina Museum of Life and Science,Durham,NC,27704,E,Public - Call ahead,36.030987,-78.898207,62316,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+4675,ELEC,Ben Mynatt Chevrolet Cadillac,Concord,NC,28027,E,Public - Call ahead,35.395326,-80.610927,62828,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+4756,ELEC,SAS Institute Inc - G,Cary,NC,27513,E,Private,35.823401,-78.76124,63074,2019-11-08 19:38:10 UTC,US,Privé,private
+4757,ELEC,SAS Institute Inc - S,Cary,NC,27607,E,Private,35.822242,-78.757042,63075,2019-11-08 19:38:10 UTC,US,Privé,private
+4758,ELEC,SAS Institute Inc - R,Cary,NC,27513,E,Private,35.824815,-78.757352,63076,2019-11-08 19:38:10 UTC,US,Privé,private
+4801,ELEC,BSMG,Durham,NC,27701,E,Public,35.994403,-78.904802,63239,2019-11-14 10:14:28 UTC,US,Public,public
+4819,ELEC,BSMG,Durham,NC,27701,E,Public,35.992739,-78.902515,63298,2019-11-14 10:14:28 UTC,US,Public,public
+4820,ELEC,BSMG,Durham,NC,27701,E,Public,35.9917846,-78.9062516,63299,2019-11-14 10:14:28 UTC,US,Public,public
+4822,ELEC,UNC,Chapel Hill,NC,27514,E,Public,35.9060678,-79.0456786,63303,2019-11-14 10:14:28 UTC,US,Public,public
+4831,ELEC,UNC,Chapel Hill,NC,27514,E,Public,35.9033304,-79.0524485,63335,2019-11-14 10:14:28 UTC,US,Public,public
+4840,ELEC,Appalachian State University - Rivers Street Parking Deck,Boone,NC,28608,E,Public,36.212469,-81.680442,63368,2019-10-04 14:44:17 UTC,US,Public,public
+4970,ELEC,RTP,Durham,NC,27703,E,Public,35.9198422,-78.8779099,63766,2019-11-14 10:14:28 UTC,US,Public,public
+5156,ELEC,CrossRoads Ford,Cary,NC,27518,E,Public - Call ahead,35.757603,-78.749721,64385,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+5167,ELEC,Gaston Courthouse Community Center,Dallas,NC,28034,E,Public,35.316002,-81.176575,64399,2019-10-04 14:44:17 UTC,US,Public,public
+5199,ELEC,Asheville Ford,Asheville,NC,28806,E,Private,35.550684,-82.601894,64510,2019-05-14 21:16:45 UTC,US,Privé,private
+5247,ELEC,North Carolina State University - Keystone Science Center,Raleigh,NC,27606,E,Public,35.774673,-78.677792,64755,2019-10-04 14:44:17 UTC,US,Public,public
+5435,ELEC,CLT AIRPORT,Charlotte,NC,28208,E,Public,35.220714,-80.944417,65505,2019-11-14 10:14:28 UTC,US,Public,public
+5436,ELEC,Ingles Market,Lincolnton,NC,28092,E,Public,35.478123,-81.221638,65509,2019-10-04 14:44:17 UTC,US,Public,public
+5437,ELEC,Sunshine Chevrolet,Arden,NC,28704,E,Public,35.480846,-82.564542,65512,2019-10-04 14:44:17 UTC,US,Public,public
+5439,ELEC,Mills Rentals Office,Chapel Hill,NC,27514,E,Public - Card key at all times,35.897388,-79.052478,65520,2019-10-04 14:44:17 UTC,US,Public - Carte-clé en tout temps,public
+5537,ELEC,Piedmont Triad Regional Council,Kernsersville,NC,27284,E,Public,36.079558,-80.064636,65924,2019-05-14 21:16:45 UTC,US,Public,public
+5581,ELEC,Ingles Market,Asheville,NC,28804,E,Public,35.62983,-82.552775,66409,2019-10-04 14:44:17 UTC,US,Public,public
+5613,ELEC,Asheville-Buncombe Technical Community College,Asheville,NC,28801,T,TEMPORARILY UNAVAILABLE (Public - Credit card at all times),35.58133,-82.56911,66530,2019-09-25 16:50:30 UTC,US,TEMPORAIREMENT SUSPENDU (Public - Carte de crédit en tout temps),public
+5659,ELEC,BSMG,Durham,NC,27701,E,Public,35.9926581,-78.9059994,66697,2019-11-14 10:14:28 UTC,US,Public,public
+5694,ELEC,STATION #1,Asheville,NC,28806,E,Public,35.5293,-82.604791,66793,2019-11-14 10:14:28 UTC,US,Public,public
+5780,ELEC,Concord Regional Airport - Hourly Parking Lot,Concord,NC,28027,E,Public,35.387187,-80.710369,67127,2019-10-04 14:44:17 UTC,US,Public,public
+5782,ELEC,The Inn on Pamilco Sound,Buxton,NC,27920,E,Public - Call ahead,35.263044,-75.569596,67130,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+5802,ELEC,MEBANE,Mebane,NC,27302,E,Public,36.074317,-79.268452,67172,2019-11-14 10:14:28 UTC,US,Public,public
+5953,ELEC,SAS Institute Inc - U,Cary,NC,27513,E,Private,35.820801,-78.753109,68003,2019-11-08 19:38:10 UTC,US,Privé,private
+5954,ELEC,SAS Institute Inc - Q,Cary,NC,27513,E,Private,35.82111,-78.749317,68004,2019-11-08 19:38:10 UTC,US,Privé,private
+5955,ELEC,SAS Institute Inc - H,Cary,NC,27513,E,Private,35.827144,-78.76066,68005,2019-11-08 19:38:10 UTC,US,Privé,private
+5956,ELEC,SAS Institute Inc - LW,Cary,NC,27513,E,Private,35.828483,-78.767465,68006,2019-11-08 19:38:10 UTC,US,Privé,private
+6031,ELEC,Beach Ready Auto,Point Harbor,NC,27964,E,Public,36.093125,-75.808695,68269,2019-10-04 14:44:17 UTC,US,Public,public
+6043,ELEC,Publix #1442,Charlotte,NC,28277,E,Public,35.0435,-80.84951,68383,2019-05-14 21:16:45 UTC,US,Public,public
+6044,ELEC,Publix #1453,Charlotte,NC,28203,E,Public,35.208237,-80.86254,68384,2019-05-14 21:16:45 UTC,US,Public,public
+6154,ELEC,ASBURYVILLAGE,Raleigh,NC,27607,E,Public,35.7950271,-78.7381743,68827,2019-11-14 10:14:28 UTC,US,Public,public
+6294,ELEC,EC STATION,Nags Head,NC,27959,E,Public,35.913597,-75.60263,69213,2019-11-14 10:14:28 UTC,US,Public,public
+6581,ELEC,VRF,Charlotte,NC,28277,E,Public,35.0533181,-80.8121696,70594,2019-11-14 10:14:28 UTC,US,Public,public
+6597,ELEC,Albemarle Inn,Asheville,NC,28801,E,Public,35.614681,-82.541903,70632,2019-10-04 14:44:17 UTC,US,Public,public
+6743,ELEC,FARMERS MARKET,Denton,NC,27239,E,Public,35.6333797,-80.1138796,71287,2019-11-14 10:14:28 UTC,US,Public,public
+6781,ELEC,Greene Street Parking Deck,Greensboro,NC,27401,E,Public,36.070934,-79.791617,71495,2019-05-14 21:16:45 UTC,US,Public,public
+6864,ELEC,FPWC,Fayetteville,NC,28304,E,Public,35.028946,-79.0444841,71807,2019-11-14 10:14:28 UTC,US,Public,public
+6865,ELEC,FPWC,Fayetteville,NC,28301,E,Public,35.087778,-78.870909,71808,2019-11-14 10:14:28 UTC,US,Public,public
+6866,ELEC,FPWC,Fayetteville,NC,28303,E,Public,35.069194,-78.9220797,71809,2019-11-14 10:14:28 UTC,US,Public,public
+6867,ELEC,FPWC,Fayetteville,NC,28314,E,Public,35.0683064,-78.9691856,71810,2019-11-14 10:14:28 UTC,US,Public,public
+6965,ELEC,Aloft Hotel,Raleigh,NC,27607,E,Public,35.786762,-78.663393,72151,2019-05-14 21:16:45 UTC,US,Public,public
+6966,ELEC,Arrowhead Inn Bed and Breakfast,Durham,NC,27712,E,Public,36.118217,-78.903677,72152,2019-10-04 14:44:17 UTC,US,Public,public
+6967,ELEC,Country Inn & Suites,Burlington,NC,27215,E,Public,36.067976,-79.502187,72153,2019-10-04 14:44:17 UTC,US,Public,public
+6968,ELEC,Hampton Inn,Salisbury,NC,28147,E,Public,35.642519,-80.483642,72156,2019-10-04 14:44:17 UTC,US,Public,public
+6969,ELEC,Snowbird Mountain Lodge,Robbinsville,NC,28771,E,Public,35.345266,-83.892973,72160,2019-10-04 14:44:17 UTC,US,Public,public
+6970,ELEC,Southeastern Center for Contemporary Art,Winston-Salem,NC,27106,E,Public,36.120072,-80.290798,72161,2019-10-04 14:44:17 UTC,US,Public,public
+6971,ELEC,The Boat House at Front Street Village,Beaufort,NC,28516,E,Public - Call ahead,34.709802,-76.630921,72164,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+6972,ELEC,The Inn at Governor's Club,Chapel Hill,NC,27517,E,Public - Call ahead,35.846975,-79.041637,72166,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+6973,ELEC,The King's Daughters Inn,Durham,NC,27701,E,Public,36.003728,-78.912068,72167,2019-10-04 14:44:17 UTC,US,Public,public
+6974,ELEC,The Ugly Dog Public House,Highlands,NC,28741,E,Public,35.051463,-83.198037,72169,2019-10-04 14:44:17 UTC,US,Public,public
+7133,ELEC,162781G01001010000,Cary,NC,27511,E,Public,35.782687,-78.781277,72672,2019-11-14 10:53:56 UTC,US,Public,public
+7148,ELEC,162781G01001020000,Cary,NC,27511,E,Public,35.78292,-78.7811908,72689,2019-11-14 10:53:56 UTC,US,Public,public
+7267,ELEC,GE WattStation #1,Maiden,NC,28650,E,Private,35.5891223,-81.2565057,72827,2019-11-14 10:53:56 UTC,US,Privé,private
+7277,ELEC,GE WattStation #5,Maiden,NC,28650,E,Private,35.5891223,-81.2565057,72837,2019-11-14 10:53:56 UTC,US,Privé,private
+7281,ELEC,GE WattStation #3,Maiden,NC,28650,E,Private,35.5891223,-81.2565057,72841,2019-11-14 10:53:56 UTC,US,Privé,private
+7283,ELEC,GE WattStation #4,Maiden,NC,28650,E,Private,35.58909297,-81.25651413,72843,2019-11-14 10:53:56 UTC,US,Privé,private
+7372,ELEC,GE-Cary WattStation 2,Cary,NC,27513,E,Public,35.8258283,-78.7977763,72941,2019-11-14 10:53:56 UTC,US,Public,public
+7389,ELEC,GE WattStation #2,Maiden,NC,28650,E,Private,35.5891355,-81.2565034,72961,2019-11-14 10:53:56 UTC,US,Privé,private
+7411,ELEC,GE WattStation2,Wake Forest,NC,27587,E,Private,35.9768433,-78.5086206,72988,2019-11-14 10:53:56 UTC,US,Privé,private
+7430,ELEC,GE WattStation1,Wake Forest,NC,27587,E,Private,35.9768433,-78.5087206,73007,2019-11-14 10:53:56 UTC,US,Privé,private
+7473,ELEC,GE Cary WattStation 1,Cary,NC,27513,E,Private,35.8258283,-78.7978763,73062,2019-11-14 10:53:56 UTC,US,Privé,private
+7491,ELEC,GE-Cary WattStation 3,Cary,NC,27513,E,Private,35.8258283,-78.7979763,73081,2019-11-14 10:53:56 UTC,US,Privé,private
+7492,ELEC,GE WattStation Cary #3,Cary,NC,27513,E,Private,35.827017,-78.7964271,73082,2019-11-14 10:53:56 UTC,US,Privé,private
+7493,ELEC,GE WattStation Cary #1,Cary,NC,27513,E,Private,35.827017,-78.7962271,73083,2019-11-14 10:53:56 UTC,US,Privé,private
+7498,ELEC,GE WattStation Cary #2,Cary,NC,27513,E,Private,35.827017,-78.7963271,73089,2019-11-14 10:53:56 UTC,US,Privé,private
+7579,ELEC,HIGHWOODS,Raleigh,NC,27604,E,Public,35.821872,-78.609234,73253,2019-11-14 10:14:28 UTC,US,Public,public
+7580,ELEC,HIGHWOODS,Raleigh,NC,27604,E,Public,35.820943,-78.608704,73254,2019-11-14 10:14:28 UTC,US,Public,public
+7588,ELEC,UNC,Chapel Hill,NC,27514,E,Public,35.9025714,-79.0477124,73277,2019-11-14 10:14:28 UTC,US,Public,public
+7608,ELEC,NC STATE,Raleigh,NC,27607,E,Public,35.7873827,-78.6756108,73326,2019-11-14 10:14:28 UTC,US,Public,public
+7609,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7821169,-78.6679066,73327,2019-11-14 10:14:28 UTC,US,Public,public
+7681,ELEC,Piedmont Triad International Airport,Greensboro,NC,27409,E,Public,36.105313,-79.938316,73468,2019-10-04 14:44:17 UTC,US,Public,public
+7685,ELEC,"CHARLOTTE, NC",Huntersville,NC,28078,E,Public,35.413668,-80.857576,73502,2019-11-14 10:14:28 UTC,US,Public,public
+7695,ELEC,"CHARLOTTE, NC",Charlotte,NC,28203,E,Public,35.2137604,-80.8565521,73525,2019-11-14 10:14:28 UTC,US,Public,public
+7696,ELEC,"CHARLOTTE, NC",Charlotte,NC,28203,E,Public,35.2153374,-80.8539177,73527,2019-11-14 10:14:28 UTC,US,Public,public
+7956,ELEC,HALIFAXCNTYCVB,Roanoke Rapids,NC,27870,E,Public,36.4269817,-77.6313574,74559,2019-11-14 10:14:28 UTC,US,Public,public
+8039,ELEC,HAVANA PHIL'S,Greensboro,NC,27408,E,Public,36.090729,-79.811402,74910,2019-11-14 10:14:28 UTC,US,Public,public
+8055,ELEC,Brevard College - Appalachian Coffee Co,Brevard,NC,28712,E,Public,35.235551,-82.730072,75025,2019-10-04 14:44:17 UTC,US,Public,public
+8134,ELEC,Rider Transit System,Concord,NC,28027,E,Public,35.442484,-80.609688,75480,2019-10-04 14:44:17 UTC,US,Public,public
+8135,ELEC,City of Concord - Parking Deck,Concord,NC,28026,E,Public,35.409825,-80.582282,75481,2019-10-04 14:44:17 UTC,US,Public,public
+8149,ELEC,BEMC,Ocean Isle Beach,NC,28469,E,Public,33.8882577,-78.4328091,75527,2019-11-14 10:14:28 UTC,US,Public,public
+8207,ELEC,DC SOLAR,Concord,NC,28027,E,Public,35.348241,-80.685873,75683,2019-11-14 10:14:28 UTC,US,Public,public
+8258,ELEC,DC SOLAR,Concord,NC,28027,E,Public,35.3462838,-80.682291,75971,2019-11-14 10:14:28 UTC,US,Public,public
+8363,ELEC,Sweet Retreat Orchard,Hillsborough,NC,27278,E,Public - Call ahead,36.103194,-79.134278,76426,2019-10-04 14:44:17 UTC,US,Public - Appeler à l'avance,public
+8374,ELEC,SOLIS DILWORTH,Charlotte,NC,28204,E,Public,35.2084586,-80.8401334,76525,2019-11-14 10:14:28 UTC,US,Public,public
+8379,ELEC,HALIFAXCNTYCVB,Roanoke Rapids,NC,27870,E,Public,36.3988611,-77.6408461,76532,2019-11-14 10:14:28 UTC,US,Public,public
+8380,ELEC,HALIFAXCNTYCVB,Roanoke Rapids,NC,27870,E,Public,36.4327131,-77.6307859,76533,2019-11-14 10:14:28 UTC,US,Public,public
+8422,ELEC,City of Durham - General Services,Durham,NC,27704,E,Private,36.007,-78.87,76736,2019-10-04 14:44:17 UTC,US,Privé,private
+8460,ELEC,Caromont Regional Medical Center,Gastonia,NC,28054,E,Public,35.274593,-81.143023,76881,2019-10-04 14:44:17 UTC,US,Public,public
+8473,ELEC,Southern Alliance for Clean Energy,Asheville,NC,28801,E,Private,35.601009,-82.548012,76914,2019-11-08 19:38:10 UTC,US,Privé,private
+8483,ELEC,BEMC,Holden Beach,NC,28462,E,Public,33.9143471,-78.2673137,76930,2019-11-14 10:14:28 UTC,US,Public,public
+8569,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7704198,-78.677132,77219,2019-11-14 10:14:28 UTC,US,Public,public
+8570,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7737766,-78.6744469,77220,2019-11-14 10:14:28 UTC,US,Public,public
+8617,ELEC,Appalachian State University - Legends Parking Lot,Boone,NC,28608,E,Private,36.214982,-81.675345,77396,2019-10-04 14:44:17 UTC,US,Privé,private
+8820,ELEC,"CHARLOTTE, NC",Charlotte,NC,28246,E,Public,35.2279466,-80.8431837,78302,2019-11-14 10:14:28 UTC,US,Public,public
+8821,ELEC,"CHARLOTTE, NC",Charlotte,NC,28202,E,Public,35.223802,-80.847447,78303,2019-11-14 10:14:28 UTC,US,Public,public
+8823,ELEC,"CHARLOTTE, NC",Charlotte,NC,28273,E,Public,35.106997,-80.882752,78305,2019-11-14 10:14:28 UTC,US,Public,public
+8835,ELEC,"CHARLOTTE, NC",Charlotte,NC,28202,E,Public,35.2244982,-80.8376233,78355,2019-11-14 10:14:28 UTC,US,Public,public
+8881,ELEC,"CHARLOTTE, NC",Charlotte,NC,28217,E,Public,35.1905225,-80.9045393,78479,2019-11-14 10:14:28 UTC,US,Public,public
+8987,ELEC,BERNCHARGE,Lenoir,NC,28645,E,Public,35.8968866,-81.5583208,78873,2019-11-14 10:14:28 UTC,US,Public,public
+8991,ELEC,DC SOLAR,Concord,NC,28027,E,Public,35.352083,-80.688916,78877,2019-11-14 10:14:28 UTC,US,Public,public
+9117,ELEC,AVL TECH PARK,Asheville,NC,28801,E,Public,35.6397768,-82.5758488,79380,2019-11-14 10:14:28 UTC,US,Public,public
+9274,ELEC,VW CHARGER,Burlington,NC,27215,E,Public,36.0725166,-79.4920554,79960,2019-11-14 10:14:28 UTC,US,Public,public
+9296,ELEC,616,Raleigh,NC,27605,E,Public,35.7930757,-78.6619258,80020,2019-11-14 10:14:28 UTC,US,Public,public
+9299,ELEC,DEVON FOUR25,Raleigh,NC,27603,E,Public,35.7863581,-78.6498506,80023,2019-11-14 10:14:28 UTC,US,Public,public
+9326,ELEC,HARRIS TEETER,Charlotte,NC,28278,E,Public,35.1609571,-80.9734792,80109,2019-11-14 10:14:28 UTC,US,Public,public
+9354,ELEC,DUKEPTS,Durham,NC,27708,E,Public,35.9960425,-78.9475123,80187,2019-11-14 10:14:28 UTC,US,Public,public
+9355,ELEC,DUKEPTS,Durham,NC,27708,E,Public,35.9962676,-78.9472186,80188,2019-11-14 10:14:28 UTC,US,Public,public
+9431,ELEC,SOLIS WAVERLY,Charlotte,NC,28277,E,Public,35.0506418,-80.7660689,80325,2019-11-14 10:14:28 UTC,US,Public,public
+9445,ELEC,New Belgium Brewery,Asheville,NC,28806,E,Public,35.586702,-82.570643,80421,2019-10-18 19:39:27 UTC,US,Public,public
+9668,ELEC,Ingles Market,Asheville,NC,28806,E,Public,35.530128,-82.606464,81000,2019-10-04 14:44:17 UTC,US,Public,public
+9669,ELEC,Ingles Market,Waynesville,NC,28786,E,Public,35.504331,-82.987681,81001,2019-10-04 14:44:17 UTC,US,Public,public
+9688,ELEC,Publix #1475,Winston-Salem,NC,27104,E,Public,36.095707,-80.27617,81084,2019-05-14 21:16:45 UTC,US,Public,public
+9810,ELEC,LENOIR CHARGE,Lenoir,NC,28645,E,Public,35.9129122,-81.540631,81493,2019-11-14 10:14:28 UTC,US,Public,public
+9897,ELEC,DOWNTOWN WILSON,Wilson,NC,27893,E,Public,35.7279906,-77.9120191,81753,2019-11-14 10:14:28 UTC,US,Public,public
+9898,ELEC,DOWNTOWN WILSON,Wilson,NC,27893,E,Public,35.7244287,-77.9127084,81754,2019-11-14 10:14:28 UTC,US,Public,public
+9899,ELEC,DOWNTOWN WILSON,Wilson,NC,27893,E,Public,35.7237721,-77.907757,81755,2019-11-14 10:14:28 UTC,US,Public,public
+9900,ELEC,DOWNTOWN WILSON,Wilson,NC,27893,E,Public,35.7249616,-77.9089326,81756,2019-11-14 10:14:28 UTC,US,Public,public
+9924,ELEC,DUKEPTS,Durham,NC,27710,E,Public,36.0070201,-78.9412623,81839,2019-11-14 10:14:28 UTC,US,Public,public
+9954,ELEC,VISITOR CENTER,Hamlet,NC,28345,E,Public,34.8835144,-79.6999202,82088,2019-11-14 10:14:28 UTC,US,Public,public
+9955,ELEC,VISITOR CENTER,Hamlet,NC,28345,E,Public,34.8834264,-79.6999524,82089,2019-11-14 10:14:28 UTC,US,Public,public
+9961,ELEC,INTOWN SUITES,Concord,NC,28027,E,Public,35.3719738,-80.709108,82104,2019-11-14 10:14:28 UTC,US,Public,public
+9994,ELEC,GASTONIA,Gastonia,NC,28054,E,Public,35.2521075,-81.157763,82191,2019-11-14 10:14:28 UTC,US,Public,public
+10005,ELEC,Maggie Valley - Town Hall,Maggie Valley,NC,28751,E,Public,35.517156,-83.09442,82222,2019-10-04 14:44:17 UTC,US,Public,public
+10032,ELEC,STATE PARKING,Raleigh,NC,27603,E,Public,35.7815102,-78.6411604,82284,2019-11-14 10:14:28 UTC,US,Public,public
+10033,ELEC,STATE PARKING,Raleigh,NC,27601,E,Public,35.7825234,-78.6410106,82285,2019-11-14 10:14:28 UTC,US,Public,public
+10141,ELEC,DEP GRANT,Smithfield,NC,27577,E,Public,35.530169,-78.3284104,82487,2019-11-14 10:14:28 UTC,US,Public,public
+10145,ELEC,DEP GRANT,Smithfield,NC,27577,E,Public,35.5160824,-78.3343142,82492,2019-11-14 10:14:28 UTC,US,Public,public
+10154,ELEC,SANFORDEVHORNER,Sanford,NC,27330,E,Public,35.4793917,-79.1798421,82513,2019-11-14 10:14:28 UTC,US,Public,public
+10155,ELEC,FARMERS MARKET,Valdese,NC,28690,E,Public,35.7433633,-81.5645214,82514,2019-11-14 10:14:28 UTC,US,Public,public
+10184,ELEC,SEC EVC,Greensboro,NC,27403,E,Public,36.0577802,-79.8265585,82568,2019-11-14 10:14:28 UTC,US,Public,public
+10203,ELEC,PIEDMONT EMC,Hillsborough,NC,27278,E,Public,36.0455465,-79.0807055,82601,2019-11-14 10:14:28 UTC,US,Public,public
+10205,ELEC,MUNICIPAL LOT,Granite Falls,NC,28630,E,Public,35.7978147,-81.4303388,82603,2019-11-14 10:14:28 UTC,US,Public,public
+10240,ELEC,DEP GRANT,Smithfield,NC,27577,E,Public,35.5018404,-78.3307037,82696,2019-11-14 10:14:28 UTC,US,Public,public
+10247,ELEC,GREENVILLE NC,Greenville,NC,27834,E,Public,35.6100364,-77.4016689,82724,2019-11-14 10:14:28 UTC,US,Public,public
+10252,ELEC,BEMC,Sunset Beach,NC,28468,E,Public,33.8702957,-78.5075353,82731,2019-11-14 10:14:28 UTC,US,Public,public
+10348,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7976811,-78.7063203,85526,2019-11-14 10:14:28 UTC,US,Public,public
+10354,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7725034,-78.6810989,85557,2019-11-14 10:14:28 UTC,US,Public,public
+10362,ELEC,GREENVILLE NC,Greenville,NC,27858,E,Public,35.60235,-77.3620925,85571,2019-11-14 10:14:28 UTC,US,Public,public
+10391,ELEC,WAKECOPUBDECK,Raleigh,NC,27601,E,Public,35.7749737,-78.6426111,85602,2019-11-14 10:14:28 UTC,US,Public,public
+10416,ELEC,NC STATE,Raleigh,NC,27606,E,Public,35.7754837,-78.6759183,85645,2019-11-14 10:14:28 UTC,US,Public,public
+10419,ELEC,TOWN HALL,Cornelius,NC,28031,E,Public,35.4824265,-80.8587052,85648,2019-11-14 10:14:28 UTC,US,Public,public
+10423,ELEC,SAS Institute Inc - 940,Cary,NC,27513,E,Private,35.820148,-78.798696,85655,2019-11-08 19:38:10 UTC,US,Privé,private
+10425,ELEC,SEYMOUR SR CTR,Chapel Hill,NC,27516,E,Public,35.950315,-79.0630284,85660,2019-11-14 10:14:28 UTC,US,Public,public
+10437,ELEC,Hot Springs Resort & Spa - Campground,Hot Springs,NC,28743,E,Public,35.893472,-82.824906,85685,2019-09-30 18:57:46 UTC,US,Public,public
+10441,ELEC,TOWN HALL,Holly Springs,NC,27540,E,Public,35.650398,-78.8342085,85693,2019-11-14 10:14:28 UTC,US,Public,public
+10460,ELEC,GASTON COUNTY,Gastonia,NC,28052,E,Public,35.2340256,-81.2044974,85767,2019-11-14 10:14:28 UTC,US,Public,public
+10461,ELEC,PIEDMONT TRIAD,Greensboro,NC,27409,E,Public,36.0937682,-79.9594295,85770,2019-11-14 10:14:28 UTC,US,Public,public
+10464,ELEC,WEST JEFFERSON,West Jefferson,NC,28694,E,Public,36.402542,-81.4894211,85773,2019-11-14 10:14:28 UTC,US,Public,public
+10467,ELEC,Western Carolina University,Cullowhee,NC,28723,E,Public,35.311874,-83.183414,85786,2019-10-29 19:40:29 UTC,US,Public,public
+10469,ELEC,ELM-MARSHALL ST,Graham,NC,27253,E,Public,36.0694244,-79.3984632,85790,2019-11-14 10:14:28 UTC,US,Public,public
+10504,ELEC,COOLEY LIBRARY,Nashville,NC,27856,E,Public,35.9735666,-77.9667557,85869,2019-11-14 10:14:28 UTC,US,Public,public
+10557,ELEC,Ingles Market,Hendersonville,NC,28739,E,Public,35.306469,-82.456078,85948,2019-10-04 14:44:17 UTC,US,Public,public
+10561,ELEC,Holiday Inn Express,Flat Rock,NC,28731,E,Public,35.29856,-82.409937,85954,2019-10-04 14:44:17 UTC,US,Public,public
+10572,ELEC,Monroe Nissan,Indian Trail,NC,28110,E,Public - Call ahead,35.060577,-80.631499,85968,2019-09-09 14:29:53 UTC,US,Public - Appeler à l'avance,public
+10589,ELEC,SPECTRUM BLDG,Charlotte,NC,28202,E,Public,35.225802,-80.845423,85987,2019-11-14 10:14:28 UTC,US,Public,public
+10607,ELEC,Albemarle Corp,Charlotte,NC,28209,E,Private,35.154231,-80.837508,86027,2019-10-28 20:16:22 UTC,US,Privé,private
+10622,ELEC,Duke Energy,Durham,NC,27705,E,Private,36.035299,-78.973331,86066,2019-05-14 21:16:45 UTC,US,Privé,private
+10626,ELEC,Old Fort Chamber of Commerce,Old Fort,NC,28762,E,Public,35.628,-82.181309,86083,2019-09-27 20:27:31 UTC,US,Public,public
+10633,ELEC,DOWNTOWN,Thomasville,NC,27360,E,Public,35.8823047,-80.0835051,86097,2019-11-14 10:14:28 UTC,US,Public,public
+10634,ELEC,DOWNTOWN,Thomasville,NC,27360,E,Public,35.8834254,-80.0804558,86098,2019-11-14 10:14:28 UTC,US,Public,public
+10639,ELEC,North Hills,Raleigh,NC,27609,E,Public,35.835836,-78.642624,86104,2019-10-04 14:44:17 UTC,US,Public,public
+10650,ELEC,Duke Energy,Aberdeen,NC,28315,E,Private,35.137358,-79.437643,86117,2019-05-14 21:16:45 UTC,US,Privé,private
+10652,ELEC,Duke Energy,Raleigh,NC,27601,E,Private,35.774724,-78.640402,86120,2019-05-14 21:16:45 UTC,US,Privé,private
+10653,ELEC,Duke Energy,Henderson,NC,27536,E,Private,36.339013,-78.397746,86121,2019-05-14 21:16:45 UTC,US,Privé,private
+10654,ELEC,Duke Energy,Jacksonville,NC,28540,E,Private,34.803916,-77.4468,86122,2019-05-14 21:16:45 UTC,US,Privé,private
+10655,ELEC,Duke Energy,Cary,NC,27511,E,Private,35.773958,-78.803281,86123,2019-05-14 21:16:45 UTC,US,Privé,private
+10656,ELEC,Duke Energy,Garner,NC,27529,E,Private,35.71922,-78.629588,86124,2019-05-14 21:16:45 UTC,US,Privé,private
+10657,ELEC,Duke Energy,Raleigh,NC,27603,E,Private,35.7417,-78.642369,86125,2019-05-14 21:16:45 UTC,US,Privé,private
+10658,ELEC,Duke Energy,Raleigh,NC,27616,E,Private,35.884757,-78.564544,86126,2019-05-14 21:16:45 UTC,US,Privé,private
+10659,ELEC,Duke Energy,Roxboro,NC,27573,E,Private,36.390045,-79.000328,86127,2019-05-14 21:16:45 UTC,US,Privé,private
+10661,ELEC,Duke Energy,Asheville,NC,28806,E,Private,35.511376,-82.600756,86129,2019-05-14 21:16:45 UTC,US,Privé,private
+10663,ELEC,Duke Energy,Greensboro,NC,27407,E,Private,36.033359,-79.876028,86131,2019-05-14 21:16:45 UTC,US,Privé,private
+10670,ELEC,Duke Energy,Clemmons,NC,27012,E,Private,36.076161,-80.396734,86154,2019-05-14 21:16:45 UTC,US,Privé,private
+10674,ELEC,Duke Energy,Aberdeen,NC,28315,E,Private,35.137358,-79.437643,86161,2019-05-14 21:16:45 UTC,US,Privé,private
+10675,ELEC,Duke Energy,Cary,NC,27511,E,Private,35.773958,-78.803281,86162,2019-05-14 21:16:45 UTC,US,Privé,private
+10676,ELEC,Duke Energy,Pittsboro,NC,27312,E,Private,35.732318,-79.284797,86163,2019-05-14 21:16:45 UTC,US,Privé,private
+10677,ELEC,Duke Energy,Raleigh,NC,27529,E,Private,35.71911,-78.62926,86164,2019-05-14 21:16:45 UTC,US,Privé,private
+10679,ELEC,Duke Energy,Raleigh,NC,27601,E,Private,35.774838,-78.63743,86166,2019-05-14 21:16:45 UTC,US,Privé,private
+10680,ELEC,Duke Energy,Raleigh,NC,27616,E,Private,35.884757,-78.564544,86167,2019-05-14 21:16:45 UTC,US,Privé,private
+10681,ELEC,Duke Energy,Roxboro,NC,27573,E,Private,36.390045,-79.000328,86168,2019-05-14 21:16:45 UTC,US,Privé,private
+10684,ELEC,Duke Energy,Aberdeen,NC,28315,E,Private,35.142517,-79.45406,86173,2019-05-14 21:16:45 UTC,US,Privé,private
+10694,ELEC,DOWNTOWN,Thomasville,NC,27360,E,Public,35.8688836,-80.0731947,86206,2019-11-14 10:14:28 UTC,US,Public,public
+10723,ELEC,City of Hendersonville - Azalea Parking Lot,Hendersonville,NC,28792,E,Public,35.316047,-82.458795,86263,2019-10-04 14:44:17 UTC,US,Public,public
+10769,ELEC,TOWN HALL,Harrisburg,NC,28075,E,Public,35.326489,-80.6451072,86788,2019-11-14 10:14:28 UTC,US,Public,public
+10814,ELEC,FARMER'S MARKET,Marion,NC,28752,E,Public,35.6822142,-82.009119,86914,2019-11-14 10:14:28 UTC,US,Public,public
+10818,ELEC,A&ET,Castle Hayne,NC,28429,E,Public,34.3249376,-77.8798428,86919,2019-11-14 10:14:28 UTC,US,Public,public
+10825,ELEC,STARWORKS,Star,NC,27356,E,Public,35.4064008,-79.7857127,86942,2019-11-14 10:14:28 UTC,US,Public,public
+10830,ELEC,TOWN HALL EV,Carrboro,NC,27510,E,Public,35.9111602,-79.0774957,86956,2019-11-14 10:14:28 UTC,US,Public,public
+10831,ELEC,FLAT ROCK NC,Flat Rock,NC,28731,E,Public,35.2727122,-82.4415169,86959,2019-11-14 10:14:28 UTC,US,Public,public
+10834,ELEC,Blue Ridge Community College - Brevard Campus,Brevard,NC,28712,E,Public,35.250058,-82.720567,86965,2019-10-04 14:44:17 UTC,US,Public,public
+10867,ELEC,16 BROADWAY,Asheville,NC,28801,E,Public,35.595823,-82.551586,87417,2019-11-14 10:14:28 UTC,US,Public,public
+10911,ELEC,PIEDMONT TRIAD,Mebane,NC,27302,E,Public,36.074692,-79.270486,87572,2019-11-14 10:14:28 UTC,US,Public,public
+10937,ELEC,DUKEPTS,Durham,NC,27705,E,Public,36.009416,-78.939453,87609,2019-11-14 10:14:28 UTC,US,Public,public
+10973,ELEC,Ingles Market,Candler,NC,28715,E,Public,35.544017,-82.658267,87652,2019-10-04 14:44:17 UTC,US,Public,public
+10975,ELEC,TOWN OF CARY,Cary,NC,27513,E,Public,35.7813041,-78.8255524,87656,2019-11-14 10:14:28 UTC,US,Public,public
+11020,ELEC,CITY OF DURHAM,Durham,NC,27701,E,Public,35.9954727,-78.9025581,87769,2019-11-14 10:14:28 UTC,US,Public,public
+11040,ELEC,City of Archdale - Creekside Park,Archdale,NC,27263,E,Public,35.893721,-79.935725,87805,2019-10-04 14:44:17 UTC,US,Public,public
+11041,ELEC,City of Archdale - City Hall,Archdale,NC,27263,E,Public,35.89954,-79.961673,87806,2019-10-04 14:44:17 UTC,US,Public,public
+11133,ELEC,Town of Sylva - Bridge Park,Sylva,NC,28779,E,Public,35.374319,-83.224975,87963,2019-10-04 14:44:17 UTC,US,Public,public
+11156,ELEC,DILLSBORO NC,Dillsboro,NC,28275,E,Public,35.3699824,-83.2491378,88015,2019-11-14 10:14:28 UTC,US,Public,public
+11177,ELEC,QCOM,Raleigh,NC,27617,E,Public,35.9055848,-78.7782844,88060,2019-11-14 10:14:28 UTC,US,Public,public
+11178,ELEC,HARRIS TEETER,Charlotte,NC,28211,E,Public,35.1532746,-80.8254727,88081,2019-11-14 10:14:28 UTC,US,Public,public
+11245,ELEC,EDGERTON ST LOT,Dunn,NC,28334,E,Public,35.3078824,-78.6083708,88186,2019-11-14 10:14:28 UTC,US,Public,public
+11263,ELEC,RSP GARAGE,Charlotte,NC,28211,E,Public,35.1528416,-80.8286377,88291,2019-11-14 10:14:28 UTC,US,Public,public
+11292,ELEC,KINSTON,Kinston,NC,28504,E,Public,35.2676171,-77.6195771,88391,2019-11-14 10:14:28 UTC,US,Public,public
+11293,ELEC,KINSTON,Kinston,NC,28501,E,Public,35.2693967,-77.5744782,88393,2019-11-14 10:14:28 UTC,US,Public,public
+11305,ELEC,LOT 1,Burlington,NC,27215,E,Public,36.0930468,-79.4350964,88414,2019-11-14 10:14:28 UTC,US,Public,public
+11312,ELEC,KINSTON,Kinston,NC,28501,E,Public,35.2605226,-77.5827396,88430,2019-11-14 10:14:28 UTC,US,Public,public
+11348,ELEC,ORIENTAL S1,Oriental,NC,28571,E,Public,35.0241204,-76.6953025,88518,2019-11-14 10:14:28 UTC,US,Public,public
+11349,ELEC,ORIENTAL S1,Oriental,NC,28571,E,Public,35.028864,-76.6947925,88519,2019-11-14 10:14:28 UTC,US,Public,public
+11391,ELEC,KINSTON,Kinston,NC,28504,E,Public,35.2331165,-77.5709112,88592,2019-11-14 10:14:28 UTC,US,Public,public
+11392,ELEC,FLOW BMW,Winston-Salem,NC,27127,E,Public,36.0598348,-80.2582143,88593,2019-11-14 10:14:28 UTC,US,Public,public
+11402,ELEC,Asheville Regional Airport - Hourly Parking Lot,Fletcher,NC,28732,E,Public,35.434874,-82.537656,88616,2019-10-04 14:44:17 UTC,US,Public,public
+11412,ELEC,OFFICE STATIONS,Louisburg,NC,27549,E,Public,36.0261361,-78.3318927,88644,2019-11-14 10:14:28 UTC,US,Public,public
+11413,ELEC,OFFICE STATIONS,Youngsville,NC,27596,E,Public,36.034161,-78.4831458,88645,2019-11-14 10:14:28 UTC,US,Public,public
+11435,ELEC,OPS. CENTER,Henderson,NC,27536,E,Public,36.3273517,-78.4039895,88714,2019-11-14 10:14:28 UTC,US,Public,public
+11436,ELEC,OPS. CENTER,Henderson,NC,27536,E,Public,36.3354869,-78.4312791,88715,2019-11-14 10:14:28 UTC,US,Public,public
+11443,ELEC,SKYNET,Asheville,NC,28801,E,Public,35.5959224,-82.5538358,88725,2019-11-14 10:14:28 UTC,US,Public,public
+11444,ELEC,SKYNET,Asheville,NC,28801,E,Public,35.5949108,-82.5560058,88727,2019-11-14 10:14:28 UTC,US,Public,public
+11624,ELEC,Kilmarlic Golf Club - Tesla,Powells Point,NC,27966,E,Public,36.11945,-75.838482,91854,2019-10-04 14:44:17 UTC,US,Public,public
+11625,ELEC,Smithfield's Chicken 'N Bar-B-Q - Tesla,Shallotte,NC,28470,E,Public,33.962722,-78.417525,91858,2019-10-04 14:44:17 UTC,US,Public,public
+11647,ELEC,Ingles Market,Waynesville,NC,28786,E,Public,35.470142,-83.004869,91903,2019-10-04 14:44:17 UTC,US,Public,public
+11648,ELEC,Ingles Market,Asheville,NC,28804,E,Public,35.672325,-82.581169,91904,2019-10-04 14:44:17 UTC,US,Public,public
+11649,ELEC,Blue Ridge Community College - Patton Hall,Flat Rock,NC,28731,E,Public,35.307808,-82.426922,91905,2019-10-04 14:44:17 UTC,US,Public,public
+11839,ELEC,WF EV STATIONS,Wake Forest,NC,27587,E,Public,35.9781938,-78.5100544,92409,2019-11-14 10:14:28 UTC,US,Public,public
+11841,ELEC,SHUTE PARKING,Monroe,NC,28112,E,Public,34.9804918,-80.5493746,92411,2019-11-14 10:14:28 UTC,US,Public,public
+11850,ELEC,NOVEL NODA,Charlotte,NC,28205,E,Public,35.2485619,-80.8065469,92421,2019-11-14 10:14:28 UTC,US,Public,public
+11859,ELEC,RCC COLLEGE,Concord,NC,28027,E,Public,35.4370465,-80.6594445,92435,2019-11-14 10:14:28 UTC,US,Public,public
+11867,ELEC,RCC COLLEGE,Salisbury,NC,28146,E,Public,35.639123,-80.4831782,92444,2019-11-14 10:14:28 UTC,US,Public,public
+11868,ELEC,PEMBROKE CHARGE,Pembroke,NC,28372,E,Public,34.6804353,-79.1934142,92445,2019-11-14 10:14:28 UTC,US,Public,public
+11873,ELEC,GREENVILLE NC,Greenville,NC,27858,E,Public,35.6057685,-77.3623529,92451,2019-11-14 10:14:28 UTC,US,Public,public
+11874,ELEC,GASTONIA,Gastonia,NC,28052,E,Public,35.266117,-81.1812969,92452,2019-11-14 10:14:28 UTC,US,Public,public
+12272,ELEC,Hyatt Place Durham Southpoint,Durham,NC,27713,E,Public - Card key at all times,35.900384,-78.961132,93357,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12273,ELEC,Courtyard Marriot,Raleigh,NC,27612,E,Public - Card key at all times,35.83511,-78.673878,93358,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12274,ELEC,Sheetz,Morrisville,NC,27560,E,Public - Card key at all times,35.855509,-78.795704,93359,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12275,ELEC,Sheetz,Raleigh,NC,27607,E,Public - Card key at all times,35.789742,-78.739027,93360,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12276,ELEC,Sheetz,Cary,NC,27519,E,Public - Card key at all times,35.860412,-78.89456,93361,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12301,ELEC,Asheville Outlet Mall,Asheville,NC,28806,E,Public - Card key at all times,35.529573,-82.601858,93387,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12302,ELEC,Biltmore Park Town Square,Asheville,NC,28803,E,Public - Card key at all times,35.48404,-82.55774,93388,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12310,ELEC,BP,Charlotte,NC,28277,E,Public - Card key at all times,35.05452,-80.84605,93397,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12311,ELEC,BP,Charlotte,NC,28273,E,Public - Card key at all times,35.16246,-80.96855,93398,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12312,ELEC,Earp's Express,Charlotte,NC,28227,E,Public - Card key at all times,35.171108,-80.661253,93399,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12313,ELEC,BP Highland Creek,Charlotte,NC,28269,E,Public - Card key at all times,35.3726,-80.78433,93400,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12314,ELEC,BP,Matthews,NC,28105,E,Public - Card key at all times,35.084032,-80.731712,93401,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12315,ELEC,BP,Mooresville,NC,28115,E,Public - Card key at all times,35.535514,-80.800871,93402,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12322,ELEC,BP,Charlotte,NC,28273,E,Public - Card key at all times,35.099375,-80.987905,93409,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12331,ELEC,BP,Charlotte,NC,28214,E,Public - Card key at all times,35.336799,-80.962461,93419,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12349,ELEC,BP,Charlotte,NC,28215,E,Public - Card key at all times,35.250797,-80.656302,93437,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12389,ELEC,SouthPark Mall,Charlotte,NC,28211,E,Public - Card key at all times,35.15402,-80.83309,93477,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12413,ELEC,AAA,Durham,NC,27707,E,Public - Card key at all times,35.9659,-78.96026,93503,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12414,ELEC,AAA,Wake Forest,NC,27587,E,Public - Card key at all times,35.95034,-78.53849,93505,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12423,ELEC,BP,Charlotte,NC,28214,E,Public - Card key at all times,35.301669,-80.986902,93515,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12440,ELEC,AAA,Raleigh,NC,27604,E,Public - Card key at all times,35.8002,-78.56228,93532,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12442,ELEC,Thomas Ave Public Lot,Charlotte,NC,28205,E,Public - Card key at all times,35.21985,-80.81261,93534,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12524,ELEC,Courtyard Marriot,Raleigh,NC,27612,E,Public - Card key at all times,35.83514,-78.67387,93623,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12525,ELEC,Hyatt Place Durham Southpoint,Durham,NC,27713,E,Public - Card key at all times,35.90027,-78.96117,93624,2019-11-14 10:52:49 UTC,US,Public - Carte-clé en tout temps,public
+12683,ELEC,University of North Carolina - Parking Deck,Asheville,NC,28804,E,Public,35.6188,-82.566569,94357,2019-10-04 14:44:17 UTC,US,Public,public
+12684,ELEC,Town of Lake Lure,Lake Lure,NC,28746,E,Public,35.435111,-82.231733,94358,2019-10-04 14:44:17 UTC,US,Public,public
+12688,ELEC,BEMC,Calabash,NC,28467,E,Public,33.8896086,-78.5668637,94377,2019-11-14 10:14:28 UTC,US,Public,public
+12971,ELEC,EPROPERTY,Charlotte,NC,28273,E,Public,35.1373676,-80.9291687,95012,2019-11-14 10:14:28 UTC,US,Public,public
+12972,ELEC,EPROPERTY,Charlotte,NC,28273,E,Public,35.1372037,-80.9291292,95013,2019-11-14 10:14:28 UTC,US,Public,public
+13180,ELEC,Sojourn Glenwood Place Apartment,Raleigh,NC,27612,E,Private,35.81717,-78.65953,95326,2019-11-14 09:08:08 UTC,US,Privé,private
+13335,ELEC,Cielo Apartments,Charlotte,NC,28209,E,Private,35.1631,-80.8484,95549,2019-11-14 09:08:08 UTC,US,Privé,private
+13358,ELEC,525 N Tryon Street Garage,Charlotte,NC,28202,E,Private,35.231197,-80.838546,95586,2019-11-14 09:08:08 UTC,US,Privé,private
+13557,ELEC,The Avenue,Raleigh,NC,27604,E,Public,35.816201,-78.611464,95921,2019-11-14 09:08:08 UTC,US,Public,public
+13738,ELEC,Ansley at Robert Lakes,Arden,NC,28704,E,Private,35.477773,-82.570366,96219,2019-11-14 09:08:08 UTC,US,Privé,private
+14012,ELEC,REVUP1,Asheboro,NC,27205,E,Public,35.6303906,-79.7655489,96720,2019-11-14 10:14:28 UTC,US,Public,public
+14017,ELEC,REVUP1,Asheboro,NC,27205,E,Public,35.6272276,-79.7666882,96725,2019-11-14 10:14:28 UTC,US,Public,public
+14026,ELEC,"BISCOE, TOWN",Biscoe,NC,27209,E,Public,35.3565517,-79.7857255,96754,2019-11-14 10:14:28 UTC,US,Public,public
+14115,ELEC,PowerSecure,Durham,NC,27703,E,Private,35.921114,-78.841953,96925,2019-11-08 19:38:10 UTC,US,Privé,private
+14144,ELEC,BSMG,Durham,NC,27701,E,Public,35.9933291,-78.9056251,96976,2019-11-14 10:14:28 UTC,US,Public,public
+14278,ELEC,WHOLE FOODS MKT,Charlotte,NC,28202,E,Public,35.220612,-80.845677,98566,2019-11-14 10:14:28 UTC,US,Public,public
+14280,ELEC,BEMC,Shallotte,NC,28470,E,Public,33.9741584,-78.3866062,98568,2019-11-14 10:14:28 UTC,US,Public,public
+14304,ELEC,Asheville Exchange Apartments,Asheville,NC,28806,E,Private,35.52998,-82.60982,98608,2019-11-14 09:08:08 UTC,US,Privé,private
+14328,ELEC,Social Security Administration,Research Triangle Park,NC,27709,E,Private,35.877576,-78.88564,98678,2019-05-14 21:16:45 UTC,US,Privé,private
+14385,ELEC,DUKE ENERGY,Mount Holly,NC,28120,E,Public,35.3256253,-81.0000801,98779,2019-11-14 10:14:28 UTC,US,Public,public
+14403,ELEC,MUNICIPAL COMPL,Swansboro,NC,28584,E,Public,34.6893315,-77.1225793,98828,2019-11-14 10:14:28 UTC,US,Public,public
+14448,ELEC,Greenlots - DCsArdenNC,Arden,NC,28704,E,Private,35.4661613,-82.5166982,98895,2019-10-17 09:51:13 UTC,US,Privé,private
+14495,ELEC,Greenlots - 63040,Waynesville,NC,28786,E,Public,35.49137878,-82.98867035,98978,2019-10-17 09:51:13 UTC,US,Public,public
+14496,ELEC,Greenlots - 63039,Asheville,NC,28801,E,Public,35.59405136,-82.54798889,98979,2019-10-17 09:51:13 UTC,US,Public,public
+14497,ELEC,Greenlots - 63038,Asheville,NC,28801,E,Public,35.59296036,-82.55130005,98980,2019-10-17 09:51:13 UTC,US,Public,public
+14514,ELEC,Greenlots - 63032,Dallas,NC,28034,E,Public,35.31681442,-81.17687225,99018,2019-10-17 09:51:13 UTC,US,Public,public
+14554,ELEC,Greenlots - 12202,"Cherokee,",NC,28719,E,Public,35.51445007,-83.30658722,99084,2019-10-17 09:51:13 UTC,US,Public,public
+14556,ELEC,Greenlots - 63139,Cherokee,NC,28719,E,Public,35.51300812,-83.30630493,99086,2019-10-17 09:51:13 UTC,US,Public,public
+14801,ELEC,HOLMES PARK,Pittsboro,NC,27312,E,Public,35.7429773,-79.1737335,99450,2019-11-14 10:14:28 UTC,US,Public,public
+14904,ELEC,FOUR COUNTY EMC,Wallace,NC,28466,E,Public,34.756467,-77.9480038,99648,2019-11-14 10:14:28 UTC,US,Public,public
+14929,ELEC,DCC DECK,Charlotte,NC,28203,E,Public,35.2117934,-80.8616846,99678,2019-11-14 10:14:28 UTC,US,Public,public
+14968,ELEC,DILLON STATION,Raleigh,NC,27603,E,Public,35.777964,-78.645687,99756,2019-11-14 10:14:28 UTC,US,Public,public
+14987,ELEC,WEINSTEIN,Durham,NC,27705,E,Public,36.0111012,-78.9464457,99782,2019-11-14 10:14:28 UTC,US,Public,public
+15010,ELEC,WEINSTEIN,Cary,NC,27519,E,Public,35.8211395,-78.859447,99819,2019-11-14 10:14:28 UTC,US,Public,public
+15014,ELEC,HENDRICK CORP,Charlotte,NC,28212,E,Public,35.1846883,-80.7632522,99824,2019-11-14 10:14:28 UTC,US,Public,public
+15020,ELEC,WEINSTEIN,Cary,NC,27519,E,Public,35.8576579,-78.8967299,99843,2019-11-14 10:14:28 UTC,US,Public,public
+15063,ELEC,Grove Winery,Gibsonville,NC,27249,E,Public,36.217492,-79.554133,99958,2019-10-04 14:44:17 UTC,US,Public,public
+15067,ELEC,WEINSTEIN,Raleigh,NC,27617,E,Public,35.9104975,-78.787751,99977,2019-11-14 10:14:28 UTC,US,Public,public
+15068,ELEC,WEINSTEIN,Cary,NC,27519,E,Public,35.8283133,-78.8825728,99978,2019-11-14 10:14:28 UTC,US,Public,public
+15080,ELEC,HAMPTON  INN,Elkin,NC,28621,E,Public,36.3930985,-80.7862566,99997,2019-11-14 10:14:28 UTC,US,Public,public
+15108,ELEC,WEINSTEIN,Concord,NC,28027,E,Public,35.3755228,-80.7202049,100044,2019-11-14 10:14:28 UTC,US,Public,public
+15183,ELEC,JLR CARY,Cary,NC,27511,E,Public,35.7396501,-78.8149251,100336,2019-11-14 10:14:28 UTC,US,Public,public
+15217,ELEC,SYEMC,Dobson,NC,27017,E,Public,36.388179,-80.718715,100397,2019-11-14 10:14:28 UTC,US,Public,public
+15224,ELEC,BUILDINGB1,Davidson,NC,28036,E,Public,35.5110962,-80.8476618,100413,2019-11-14 10:14:28 UTC,US,Public,public
+15226,ELEC,BUILDINGB1,Davidson,NC,28036,E,Public,35.5116916,-80.8514294,100415,2019-11-14 10:14:28 UTC,US,Public,public
+15230,ELEC,BUILDINGB1,Davidson,NC,28036,E,Public,35.510364,-80.851064,100419,2019-11-14 10:14:28 UTC,US,Public,public
+15256,ELEC,104 S ESTES,Chapel Hill,NC,27514,E,Public,35.9285563,-79.0336299,100473,2019-11-14 10:14:28 UTC,US,Public,public
+15263,ELEC,Ingles Market,Franklin,NC,28734,E,Public,35.156931,-83.392158,100482,2019-10-04 14:44:17 UTC,US,Public,public
+15264,ELEC,The Factory - Franklin,Franklin,NC,28734,E,Public,35.160381,-83.389547,100483,2019-10-04 14:44:17 UTC,US,Public,public
+15265,ELEC,The Inn on Biltmore Estate,Asheville,NC,28803,E,Public,35.5568,-82.577065,100484,2019-10-04 14:44:17 UTC,US,Public,public
+15266,ELEC,Village Hotel on Biltmore Estate,Asheville,NC,28803,E,Public,35.554142,-82.582147,100485,2019-10-04 14:44:17 UTC,US,Public,public
+15301,ELEC,MARKET ST DECK,Wilmington,NC,28401,E,Public,34.2359745,-77.9478457,100567,2019-11-14 10:14:28 UTC,US,Public,public
+15571,ELEC,Asheville Outlets - Tesla Supercharger,Asheville,NC,28806,E,Public,35.5293,-82.604791,102268,2019-05-09 14:33:40 UTC,US,Public,public
+15572,ELEC,Alamance Crossing - Tesla Supercharger,Burlington,NC,27215,E,Public,36.069431,-79.510237,102269,2019-05-09 14:33:40 UTC,US,Public,public
+15573,ELEC,Cochran Commons - Tesla Supercharger,Charlotte,NC,28262,E,Public,35.341286,-80.765445,102270,2019-05-09 14:33:40 UTC,US,Public,public
+15574,ELEC,DoubleTree by Hilton Hotel - Tesla Supercharger,Fayetteville,NC,28312,E,Public,35.00798,-78.823492,102271,2019-05-09 14:33:40 UTC,US,Public,public
+15575,ELEC,Sheetz - Tesla Supercharger,Greensboro,NC,27407,E,Public,36.059276,-79.908666,102272,2019-05-09 14:33:40 UTC,US,Public,public
+15576,ELEC,Sheetz - Tesla Supercharger,SE Hickory,NC,28602,E,Public,35.70619364,-81.29489597,102273,2019-05-09 14:33:40 UTC,US,Public,public
+15577,ELEC,"Texas, Steakhouse and Saloon - Lumberton - Tesla Supercharger",Lumberton,NC,28358,E,Public,34.667229,-79.002434,102274,2019-05-09 14:33:40 UTC,US,Public,public
+15578,ELEC,North Hills - Tesla Supercharger,Raleigh,NC,27609,E,Public,35.835539,-78.643001,102276,2019-05-09 14:33:40 UTC,US,Public,public
+15579,ELEC,DoubleTree Rocky Mount - Tesla Supercharger,Rocky Mount,NC,27804,E,Public,35.974046,-77.848021,102277,2019-05-09 14:33:40 UTC,US,Public,public
+15580,ELEC,Mad Boar Restaurant - Tesla Supercharger,Wallace,NC,28466,E,Public,34.756957,-77.948066,102278,2019-05-09 14:33:40 UTC,US,Public,public
+15581,ELEC,Mayfaire Town Center - Tesla Supercharger,Wilmington,NC,28405,E,Public,34.243646,-77.830515,102279,2019-05-09 14:33:40 UTC,US,Public,public
+15863,ELEC,CAPE HATTERAS,Rodanthe,NC,27968,E,Public,35.5836421,-75.4673704,102664,2019-11-14 10:14:28 UTC,US,Public,public
+15870,ELEC,CAPE HATTERAS,Hatteras,NC,27953,E,Public,35.2076356,-75.701494,102675,2019-11-14 10:14:28 UTC,US,Public,public
+15872,ELEC,SWC STATION 3&4,Raleigh,NC,27603,E,Public,35.6521409,-78.7060333,102678,2019-11-14 10:14:28 UTC,US,Public,public
+15876,ELEC,COCPARKING,Concord,NC,28025,E,Public,35.4102422,-80.5820501,102702,2019-11-14 10:14:28 UTC,US,Public,public
+15916,ELEC,CLT AIRPORT,Charlotte,NC,28202,E,Public,35.2303,-80.8443,102938,2019-11-14 10:14:28 UTC,US,Public,public
+15955,ELEC,MCH EV STATIONS,Greensboro,NC,27401,E,Public,36.0937241,-79.7877463,103069,2019-11-14 10:14:28 UTC,US,Public,public
+16237,ELEC,HIGHWOODS,Raleigh,NC,27607,E,Public,35.792361,-78.739783,104039,2019-11-14 10:14:28 UTC,US,Public,public
+16249,ELEC,The Veranda,Chapel Hill,NC,27516,E,Public,35.821493,-79.086953,104139,2019-10-04 14:44:17 UTC,US,Public,public
+16254,ELEC,Sierra Nevada Brewery,Mills River,NC,28732,E,Public,35.430833,-82.553153,104145,2019-10-04 14:44:17 UTC,US,Public,public
+16284,ELEC,Secure Parking - BAC Parking Deck,Charlotte,NC,28202,E,Private,35.226655,-80.840749,104202,2019-06-06 17:52:59 UTC,US,Privé,private
+16354,ELEC,Town of Elkin - Farmers Market,Elkin,NC,28621,E,Public,36.245222,-80.850472,104306,2019-10-04 14:44:17 UTC,US,Public,public
+16355,ELEC,Town of Elkin - Heritage and Trails Center,Elkin,NC,28621,E,Public,36.242635,-80.851461,104307,2019-10-04 14:44:17 UTC,US,Public,public
+16356,ELEC,Town of Elkin - Recreation Center,Elkin,NC,28621,E,Public,36.247855,-80.855906,104308,2019-10-04 14:44:17 UTC,US,Public,public
+16411,ELEC,OFFICE STATIONS,Wake Forest,NC,27587,E,Public,35.9473226,-78.5050003,104433,2019-11-14 10:14:28 UTC,US,Public,public
+16434,ELEC,FLOWJLR,Greensboro,NC,27407,E,Public,36.058572,-79.902895,104489,2019-11-14 10:14:28 UTC,US,Public,public
+16451,ELEC,GASTONIA,Gastonia,NC,28052,E,Public,35.2625105,-81.1839772,104534,2019-11-14 10:14:28 UTC,US,Public,public
+16461,ELEC,BUILDINGB1,Davidson,NC,28036,E,Public,35.5127702,-80.852631,104562,2019-11-14 10:14:28 UTC,US,Public,public
+16617,ELEC,PARK CENTRAL,Raleigh,NC,27609,E,Public,35.836089,-78.637367,104930,2019-11-14 10:14:28 UTC,US,Public,public
+16629,ELEC,BARBOUR HENDRIC,Greenville,NC,27834,E,Public,35.5705631,-77.4014694,104963,2019-11-14 10:14:28 UTC,US,Public,public
+16657,ELEC,PITTSBORO,Pittsboro,NC,27312,E,Public,35.7202824,-79.165817,105024,2019-11-14 10:14:28 UTC,US,Public,public
+16729,ELEC,VMC,Greenville,NC,27834,E,Public,35.6078747,-77.4072255,105149,2019-11-14 10:14:28 UTC,US,Public,public
+16749,ELEC,Penguin Place,Pittsboro,NC,27312,E,Public,35.72130458,-79.17745311,105189,2019-10-04 14:44:17 UTC,US,Public,public
+16860,ELEC,JLR CHARLOTTE,Charlotte,NC,28212,E,Public,35.1664304,-80.7440534,105429,2019-11-14 10:14:28 UTC,US,Public,public
+18800,ELEC,Bunn House Boutique Hotel - Tesla Destination,Asheville,NC,28801,E,Public,35.601593,-82.549245,114639,2019-05-14 21:16:45 UTC,US,Public,public
+18801,ELEC,Hyatt Place Downtown Asheville - Tesla Destination,Asheville,NC,28801,E,Public,35.595821,-82.560312,114640,2019-05-14 21:16:45 UTC,US,Public,public
+18802,ELEC,The Omni Grove Park Inn - Tesla Destination,Asheville,NC,28804,E,Public,35.618995,-82.541464,114641,2019-05-14 21:16:45 UTC,US,Public,public
+18803,ELEC,"Albemarle Inn, a Select Registry Property - Tesla Destination",Asheville,NC,28801,E,Public,35.614681,-82.541903,114642,2019-05-09 14:33:40 UTC,US,Public,public
+18804,ELEC,Grand Bohemian Hotel Asheville - Tesla Destination,Asheville,NC,28803,E,Public,35.566854,-82.54403,114643,2019-05-14 21:16:45 UTC,US,Public,public
+18805,ELEC,The Mast Farm Inn - Tesla Destination,Banner Elk,NC,28604,E,Public - Call ahead,36.207323,-81.771861,114644,2019-05-09 14:33:40 UTC,US,Public - Appeler à l'avance,public
+18806,ELEC,Pecan Tree Inn - Tesla Destination,Beaufort,NC,28516,E,Public,34.716455,-76.662886,114645,2019-05-09 14:33:40 UTC,US,Public,public
+18807,ELEC,The Boathouse at Front Street Village - Tesla Destination,Beaufort,NC,28516,E,Public,34.709802,-76.630921,114646,2019-05-14 21:16:45 UTC,US,Public,public
+18808,ELEC,Old Stone Steakhouse - Tesla Destination,Belmont,NC,28012,E,Public,35.241653,-81.037738,114647,2019-05-14 21:16:45 UTC,US,Public,public
+18809,ELEC,Hampton Inn Benson - Tesla Destination,Benson,NC,27504,E,Public,35.373044,-78.542009,114648,2019-05-14 21:16:45 UTC,US,Public,public
+18810,ELEC,Hemlock Inn - Tesla Destination,Blowing Rock,NC,28605,E,Public,36.131428,-81.677612,114649,2019-05-09 14:33:40 UTC,US,Public,public
+18811,ELEC,Chetola Resort at Blowing Rock - Tesla Destination,Blowing Rock,NC,28605,E,Public,36.13885,-81.673285,114650,2019-05-14 21:16:45 UTC,US,Public,public
+18812,ELEC,The Inn at Ragged Gardens / Best Cellar Restaurant - Tesla Destination,Blowing Rock,NC,28605,E,Public,36.133262,-81.676251,114651,2019-05-09 14:33:40 UTC,US,Public,public
+18813,ELEC,Mountainaire Inn & Log Cabins - Tesla Destination,Blowing Rock,NC,28605,E,Public,36.135082,-81.67685,114652,2019-05-09 14:33:40 UTC,US,Public,public
+18814,ELEC,Canyons Historic Restaurant and Bar - Tesla Destination,Blowing Rock,NC,28605,E,Public,36.119923,-81.665099,114653,2019-05-14 21:16:45 UTC,US,Public,public
+18815,ELEC,Makoto's Japanese Steakhouse & Sushi Bar - Tesla Destination,Boone,NC,28607,E,Public,36.195534,-81.654229,114654,2019-05-14 21:16:45 UTC,US,Public,public
+18816,ELEC,Brevard College - Appalachian Coffee Company - Tesla Destination,Brevard,NC,28712,E,Public,35.23573,-82.729982,114655,2019-05-14 21:16:45 UTC,US,Public,public
+18817,ELEC,Brevard College - Sims Art Center - Tesla Destination,Brevard,NC,28712,E,Public,35.237577,-82.729698,114656,2019-05-14 21:16:45 UTC,US,Public,public
+18818,ELEC,"Country Inn & Suites - Burlington, NC - Tesla Destination",Burlington,NC,27215,E,Public,36.067976,-79.502187,114657,2019-05-14 21:16:45 UTC,US,Public,public
+18819,ELEC,The Inn on Pamlico Sound - Tesla Destination,Buxton,NC,27920,E,Public,35.263044,-75.569596,114658,2019-05-09 14:33:40 UTC,US,Public,public
+18820,ELEC,Carteret Crossing Shopping Center - Tesla Destination,Cape Carteret,NC,28584,E,Public,34.690357,-77.066058,114659,2019-05-14 21:16:45 UTC,US,Public,public
+18821,ELEC,The Umstead Hotel and Spa - Tesla Destination,Cary,NC,27513,E,Public,35.829902,-78.764586,114660,2019-05-14 21:16:45 UTC,US,Public,public
+18822,ELEC,The Mayton Inn - Tesla Destination,Cary,NC,27511,E,Public,35.784835,-78.780847,114661,2019-05-09 14:33:40 UTC,US,Public,public
+18823,ELEC,The Ugly Dog Public House - Cashiers - Tesla Destination,Cashiers,NC,28717,E,Public,35.110993,-83.09913,114662,2019-05-14 21:16:45 UTC,US,Public,public
+18824,ELEC,The Inn at Governors Club - Tesla Destination,Chapel Hill,NC,27517,E,Public - Call ahead,35.846975,-79.041637,114664,2019-05-09 14:33:40 UTC,US,Public - Appeler à l'avance,public
+18825,ELEC,The Carolina Inn - Tesla Destination,Chapel Hill,NC,27516,E,Public,35.909674,-79.054415,114665,2019-05-09 14:33:40 UTC,US,Public,public
+18826,ELEC,"The Franklin Hotel Chapel Hill, Curio Collection - Tesla Destination",Chapel Hill,NC,27516,E,Public,35.911216,-79.060162,114666,2019-05-14 21:16:45 UTC,US,Public,public
+18827,ELEC,SpringHill Suites Charlotte Ballantyne Area - Tesla Destination,Charlotte,NC,28277,E,Public,35.071141,-80.842189,114667,2019-05-14 21:16:45 UTC,US,Public,public
+18828,ELEC,Aloft Charlotte Ballantyne - Tesla Destination,Charlotte,NC,28277,E,Public,35.058303,-80.844678,114668,2019-05-14 21:16:45 UTC,US,Public,public
+18829,ELEC,Embassy Suites Charlotte Ayrsley - Tesla Destination,Charlotte,NC,28273,E,Public,35.13739,-80.930682,114669,2019-05-14 21:16:45 UTC,US,Public,public
+18830,ELEC,Homewood Suites Charlotte Ayresly - Tesla Destination,Charlotte,NC,28273,E,Public,35.137179,-80.931169,114670,2019-05-14 21:16:45 UTC,US,Public,public
+18831,ELEC,Hyatt Place Charlotte Downtown - Tesla Destination,Charlotte,NC,28202,E,Public,35.222792,-80.840924,114671,2019-05-14 21:16:45 UTC,US,Public,public
+18832,ELEC,Renaissance Charlotte Suites Hotel - Tesla Destination,Charlotte,NC,28217,E,Public,35.188146,-80.914997,114672,2019-05-14 21:16:45 UTC,US,Public,public
+18833,ELEC,Wingate By Wyndham Charlotte Airport I-85/I-485 - Tesla Destination,Charlotte,NC,28214,E,Public - Call ahead,35.24295,-80.939688,114673,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+18834,ELEC,Le Meridien Charlotte Hotel - Tesla Destination,Charlotte,NC,28204,E,Public,35.216456,-80.840117,114674,2019-05-14 21:16:45 UTC,US,Public,public
+18835,ELEC,Crowne Plaza Charlotte Executive Park - Tesla Destination,Charlotte,NC,28217,E,Public,35.159369,-80.888739,114675,2019-05-14 21:16:45 UTC,US,Public,public
+18836,ELEC,DoubleTree by Hilton Hotel Charlotte - Tesla Destination,Charlotte,NC,28202,E,Public,35.233623,-80.851227,114676,2019-05-14 21:16:45 UTC,US,Public,public
+18837,ELEC,Residence Inn & Courtyard by Marriott Charlotte Nort - Tesla Destination,Charlotte,NC,28208,E,Public,35.344936,-80.842227,114677,2019-05-14 21:16:45 UTC,US,Public,public
+18838,ELEC,Cherokee Welcome Center - Tesla Destination,Cherokee,NC,28719,E,Public,35.482737,-83.316863,114678,2019-05-14 21:16:45 UTC,US,Public,public
+18839,ELEC,Western Carolina University - Lot 30 - Tesla Destination,Cullowhee,NC,28723,E,Public,35.311874,-83.183414,114679,2019-05-14 21:16:45 UTC,US,Public,public
+18840,ELEC,The Waterfront Shops - Tesla Destination,Duck,NC,27949,E,Public,36.17013,-75.756964,114680,2019-05-14 21:16:45 UTC,US,Public,public
+18841,ELEC,Sanderling Resort - Tesla Destination,Duck,NC,27949,E,Public,36.223569,-75.770523,114681,2019-05-14 21:16:45 UTC,US,Public,public
+18842,ELEC,Arrowhead Inn Bed & Breakfast - Tesla Destination,Durham,NC,27712,E,Public,36.118217,-78.903677,114682,2019-05-14 21:16:45 UTC,US,Public,public
+18843,ELEC,The King's Daughters Inn - Tesla Destination,Durham,NC,27701,E,Public,36.003728,-78.912068,114683,2019-05-09 14:33:40 UTC,US,Public,public
+18844,ELEC,Homewood Suites by Hilton Durham-Chapel Hill - Tesla Destination,Durham,NC,27707,E,Public,35.94969,-78.99566,114684,2019-05-14 21:16:45 UTC,US,Public,public
+18845,ELEC,Elon University Inman Admissions Welcome Center - Tesla Destination,Elon,NC,27244,E,Public,36.10476,-79.50354,114685,2019-05-14 21:16:45 UTC,US,Public,public
+18846,ELEC,Best Western Plus Greensboro Airport Hotel - Tesla Destination,Greensboro,NC,27409,E,Public,36.077009,-79.959987,114686,2019-05-14 21:16:45 UTC,US,Public,public
+18847,ELEC,Pinebrook Manor - Tesla Destination,Hendersonville,NC,28739,E,Public,35.279672,-82.488603,114687,2019-05-14 21:16:45 UTC,US,Public,public
+18848,ELEC,200 Main - Tesla Destination,Highlands,NC,28741,E,Public,35.054647,-83.201175,114688,2019-05-14 21:16:45 UTC,US,Public,public
+18849,ELEC,The Ugly Dog Public House - Highlands - Tesla Destination,Highlands,NC,28741,E,Public,35.051651,-83.197967,114689,2019-05-14 21:16:45 UTC,US,Public,public
+18850,ELEC,Old Edwards Inn and Spa - Tesla Destination,Highlands,NC,28741,E,Public,35.052315,-83.197003,114690,2019-05-09 14:33:40 UTC,US,Public,public
+18851,ELEC,Holiday Inn Express & Suites Concord - Tesla Destination,Kannapolis,NC,28083,E,Public,35.463999,-80.5898,114691,2019-05-14 21:16:45 UTC,US,Public,public
+18852,ELEC,Outer Banks Brewing Station - Tesla Destination,Kill Devil Hills,NC,27948,E,Public,36.009484,-75.659456,114692,2019-05-14 21:16:45 UTC,US,Public,public
+18853,ELEC,Roanoke Island Inn - Tesla Destination,Manteo,NC,27954,E,Public - Call ahead,35.907638,-75.670631,114693,2019-05-09 14:33:40 UTC,US,Public - Appeler à l'avance,public
+18854,ELEC,Holiday Inn Express Mooresville - Lake Norman - Tesla Destination,Mooresville,NC,28115,E,Public,35.590989,-80.857206,114694,2019-05-14 21:16:45 UTC,US,Public,public
+18855,ELEC,Hilton Garden Inn Charlotte/Mooresville - Tesla Destination,Mooresville,NC,28117,E,Public,35.557444,-80.856621,114695,2019-05-14 21:16:45 UTC,US,Public,public
+18856,ELEC,Harrah's Cherokee Valley River Casino - Tesla Destination,Murphy,NC,28906,E,Public,35.115426,-83.99464,114696,2019-05-14 21:16:45 UTC,US,Public,public
+18857,ELEC,Carolina Colours Town Centre - Tesla Destination,New Bern,NC,28562,E,Public,35.035162,-77.011142,114697,2019-05-14 21:16:45 UTC,US,Public,public
+18858,ELEC,Hanna House Bed & Breakfast - Tesla Destination,New Bern,NC,28560,E,Public,35.106882,-77.036972,114698,2019-05-14 21:16:45 UTC,US,Public,public
+18859,ELEC,The Aerie Bed and Breakfast - Tesla Destination,New Bern,NC,28562,E,Public,35.106688,-77.042499,114699,2019-05-14 21:16:45 UTC,US,Public,public
+18860,ELEC,TC Corriher Implement Co. - Tesla Destination,Newton,NC,28658,E,Public,35.66267,-81.223926,114700,2019-05-14 21:16:45 UTC,US,Public,public
+18861,ELEC,Pinehurst Resort - Tesla Destination,Pinehurst,NC,28374,E,Public,35.195905,-79.473401,114702,2019-05-14 21:16:45 UTC,US,Public,public
+18862,ELEC,Aloft Raleigh - Tesla Destination,Raleigh,NC,27607,E,Public,35.786762,-78.663393,114703,2019-05-14 21:16:45 UTC,US,Public,public
+18863,ELEC,Quality Inn Roanoke Rapids - Tesla Destination,Roanoke Rapids,NC,27870,E,Public,36.43215,-77.631937,114704,2019-05-14 21:16:45 UTC,US,Public,public
+18864,ELEC,Historic Tapoco Lodge - Tesla Destination,Robbinsville,NC,28771,E,Public,35.443895,-83.943754,114705,2019-08-08 15:38:00 UTC,US,Public,public
+18865,ELEC,Deal's Gap Motorcycle Resort - Tesla Destination,Robbinsville,NC,28771,E,Public,35.466662,-83.920154,114706,2019-08-08 15:38:00 UTC,US,Public,public
+18866,ELEC,Snowbird Mountain Lodge - Tesla Destination,Robbinsville,NC,28771,E,Public,35.345092,-83.893071,114707,2019-05-14 21:16:45 UTC,US,Public,public
+18867,ELEC,Hampton Inn Salisbury - Tesla Destination,Salisbury,NC,28147,E,Public,35.642344,-80.48374,114708,2019-05-14 21:16:45 UTC,US,Public,public
+18868,ELEC,"The Orchard Inn, a Select Registry Property - Tesla Destination",Saluda,NC,28773,E,Public,35.229272,-82.334958,114709,2019-05-09 14:33:40 UTC,US,Public,public
+18869,ELEC,Hampton Inn Selma/Smithfield I-95 - Tesla Destination,Selma,NC,27576,E,Public,35.517803,-78.295406,114710,2019-05-14 21:16:45 UTC,US,Public,public
+18870,ELEC,Residence Inn by Marriott Pinehurst Southern Pines - Tesla Destination,Southern Pines,NC,28387,E,Public,35.172764,-79.424221,114711,2019-05-14 21:16:45 UTC,US,Public,public
+18871,ELEC,National Athletic Village - Tesla Destination,Southern Pines,NC,28387,E,Public,35.194606,-79.372465,114712,2019-05-14 21:16:45 UTC,US,Public,public
+18872,ELEC,Comfort Suites Southport - Tesla Destination,Southport,NC,28461,E,Public - Call ahead,33.9524,-78.051636,114713,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+18873,ELEC,"1906 Pine Crest Inn, a Select Registry Property - Tesla Destination",Tryon,NC,28782,E,Public,35.209665,-82.234062,114714,2019-05-09 14:33:40 UTC,US,Public,public
+18874,ELEC,Candlewood Suites Wake Forest Raleigh Area - Tesla Destination,Wake Forest,NC,27587,E,Public,35.976261,-78.542906,114715,2019-05-14 21:16:45 UTC,US,Public,public
+18875,ELEC,The Swag - Tesla Destination,Waynesville,NC,28785,E,Public,35.566952,-83.084312,114716,2019-05-14 21:16:45 UTC,US,Public,public
+18876,ELEC,Inn On Main - Tesla Destination,Weaverville,NC,28787,E,Public,35.692738,-82.559751,114717,2019-05-09 14:33:40 UTC,US,Public,public
+18877,ELEC,Red Oak Brewery - Tesla Destination,Whitsett,NC,27377,E,Public,36.061273,-79.569551,114718,2019-05-14 21:16:45 UTC,US,Public,public
+18878,ELEC,The Forum - Tesla Destination,Wilmington,NC,28405,E,Public,34.23614,-77.826972,114719,2019-05-14 21:16:45 UTC,US,Public,public
+18879,ELEC,Ceviche's - Tesla Destination,Wilmington,NC,28403,E,Public,34.21994,-77.817419,114720,2019-05-14 21:16:45 UTC,US,Public,public
+18880,ELEC,Southeastern Center for Contemporary Art (SECCA) - Tesla Destination,Winston-Salem,NC,27106,E,Public,36.119955,-80.289919,114721,2019-05-14 21:16:45 UTC,US,Public,public
+20446,ELEC,FAIRFIELD ELKIN,Elkin,NC,28621,E,Public,36.2796909,-80.8236666,116828,2019-11-14 10:14:28 UTC,US,Public,public
+20447,ELEC,FAIRFIELD ELKIN,Elkin,NC,28621,E,Public,36.2795831,-80.8236888,116829,2019-11-14 10:14:28 UTC,US,Public,public
+20457,ELEC,S MAIN STATION,Lexington,NC,27292,E,Public,35.8213563,-80.2561608,116843,2019-11-14 10:14:28 UTC,US,Public,public
+20516,ELEC,HONDASOUTHPOINT,Durham,NC,27713,E,Public,35.906936,-78.954178,116939,2019-11-14 10:14:28 UTC,US,Public,public
+20554,ELEC,WHOLE FOODS MKT,Charlotte,NC,28210,E,Public,35.147235,-80.830397,117021,2019-11-14 10:14:28 UTC,US,Public,public
+20567,ELEC,WHOLE FOODS MKT,Raleigh,NC,27615,E,Public,35.898899,-78.650239,117049,2019-11-14 10:14:28 UTC,US,Public,public
+20574,ELEC,HIGHWOODS,Cary,NC,27513,E,Public,35.82713,-78.797632,117060,2019-11-14 10:14:28 UTC,US,Public,public
+20575,ELEC,HIGHWOODS,Cary,NC,27513,E,Public,35.8264936,-78.7948943,117062,2019-11-14 10:14:28 UTC,US,Public,public
+20622,ELEC,BUILDINGB1,Davidson,NC,28036,E,Public,35.5137133,-80.8472559,117152,2019-11-14 10:14:28 UTC,US,Public,public
+20716,ELEC,HENDRICK SBLVD,Charlotte,NC,28273,E,Public,35.116514,-80.882152,117333,2019-11-14 10:14:28 UTC,US,Public,public
+20834,ELEC,BLOWING ROCK,Blowing Rock,NC,28605,E,Public,36.1329453,-81.6797377,117633,2019-11-14 10:14:28 UTC,US,Public,public
+20896,ELEC,MJM GROUP,Charlotte,NC,28278,E,Public,35.1647489,-80.9725767,117778,2019-11-14 10:14:28 UTC,US,Public,public
+20964,ELEC,FAYETTEVILLE NC,Fayetteville,NC,28301,E,Public,35.0518437,-78.8818608,118051,2019-11-14 10:14:28 UTC,US,Public,public
+20978,ELEC,GATEWAY PARK,Salisbury,NC,28144,E,Public,35.6663615,-80.4675324,118205,2019-11-14 10:14:28 UTC,US,Public,public
+20992,ELEC,BASF,Durham,NC,27709,E,Public,35.925129,-78.864765,118507,2019-11-14 10:14:28 UTC,US,Public,public
+21040,ELEC,SERVICE DR.,Cary,NC,27511,E,Public,35.737083,-78.811109,118887,2019-11-14 10:14:28 UTC,US,Public,public
+21059,ELEC,METLIFE,Cary,NC,27513,E,Public,35.830019,-78.799133,118914,2019-11-14 10:14:28 UTC,US,Public,public
+21090,ELEC,Capital Ford,Charlotte,NC,28213,E,Public - Call ahead,35.261309,-80.776713,118968,2019-05-14 21:16:45 UTC,US,Public - Appeler à l'avance,public
+21098,ELEC,RALEIGH STATION,Raleigh,NC,27616,E,Public,35.88656,-78.56933,119005,2019-11-14 10:14:28 UTC,US,Public,public
+21121,ELEC,METLIFE,Cary,NC,27513,E,Public,35.828631,-78.799967,119031,2019-11-14 10:14:28 UTC,US,Public,public
+21122,ELEC,HENDRICKCONCORD,Concord,NC,28027,E,Public,35.3789229,-80.6999791,119033,2019-11-14 10:14:28 UTC,US,Public,public
+21123,ELEC,HENDRICKCONCORD,Concord,NC,28027,E,Public,35.363571,-80.705009,119034,2019-11-14 10:14:28 UTC,US,Public,public
+21220,ELEC,Marlowe Lake Boone Apartments,Raleigh,NC,27607,E,Private,35.814248,-78.689886,120893,2019-11-14 09:08:08 UTC,US,Privé,private
+21226,ELEC,City of Shelby,Shelby,NC,28150,E,Public,35.29263,-81.541347,120910,2019-05-14 21:16:45 UTC,US,Public,public
+21230,ELEC,Hendersonville Community Co-op,Hendersonville,NC,28792,E,Public,35.305269,-82.44885,120914,2019-04-08 17:32:59 UTC,US,Public,public
+21259,ELEC,COCPARKING,Concord,NC,28025,E,Public,35.4085492,-80.5799139,120970,2019-11-14 10:14:28 UTC,US,Public,public
+21265,ELEC,CITY OF ELIZABE,Elizabeth City,NC,27909,E,Public,36.2987868,-76.2187094,120977,2019-11-14 10:14:28 UTC,US,Public,public
+21284,ELEC,119 SOUTH,Mebane,NC,27302,E,Public,36.0634662,-79.2998859,120999,2019-11-14 10:14:28 UTC,US,Public,public
+21292,ELEC,"CHARLOTTE, NC",Charlotte,NC,28202,E,Public,35.2292981,-80.8408062,121009,2019-11-14 10:14:28 UTC,US,Public,public
+21321,ELEC,FOUR COUNTY EMC,Burgaw,NC,28425,E,Public,34.5456315,-77.9540393,121052,2019-11-14 10:14:28 UTC,US,Public,public
+21356,ELEC,SERVICECHARGER,Fletcher,NC,28732,E,Public,35.4409068,-82.5338528,121106,2019-11-14 10:14:28 UTC,US,Public,public
+21399,ELEC,WHOLE FOODS MKT,Cary,NC,27519,E,Public,35.8333973,-78.8823858,121242,2019-11-14 10:14:28 UTC,US,Public,public
+21404,ELEC,Bull House Apartments,Durham,NC,27701,E,Private,35.989721,-78.898721,121256,2019-11-14 09:08:08 UTC,US,Privé,private
+21426,ELEC,Residence Inn & Courtyard - Charlotte North,Charlotte,NC,28208,E,Public,35.344936,-80.842227,121301,2019-05-14 21:16:45 UTC,US,Public,public
+21427,ELEC,Parks Chevrolet Charlotte,Charlotte,NC,28262,E,Public - Call ahead,35.28959292,-80.76429419,121303,2019-06-06 17:52:59 UTC,US,Public - Appeler à l'avance,public
+21428,ELEC,University of North Carolina Charlotte - CRI Deck 1,Charlotte,NC,28223,E,Public,35.309767,-80.744669,121304,2019-05-14 21:16:45 UTC,US,Public,public
+21429,ELEC,University of North Carolina Charlotte - South Village Parking Deck,Charlotte,NC,28223,E,Public,35.30438,-80.736847,121305,2019-05-14 21:16:45 UTC,US,Public,public
+21430,ELEC,University of North Carolina Charlotte - East Deck 3,Charlotte,NC,28213,E,Public,35.302085,-80.731393,121306,2019-05-14 21:16:45 UTC,US,Public,public
+21431,ELEC,Glenwood Acres RV Park,Concord,NC,28027,E,Public,35.351959,-80.69282,121307,2019-06-06 17:52:59 UTC,US,Public,public
+21432,ELEC,Keffer Chrysler Jeep Dodge Ram,Charlotte,NC,28227,E,Public - Call ahead,35.152137,-80.729776,121308,2019-06-06 17:52:59 UTC,US,Public - Appeler à l'avance,public
+21433,ELEC,Publix #1518,Charlotte,NC,28211,E,Public,35.177786,-80.799739,121309,2019-05-14 21:16:45 UTC,US,Public,public
+21434,ELEC,Sterling Services,Matthews,NC,28104,E,Public,35.086503,-80.678455,121310,2019-05-14 21:16:45 UTC,US,Public,public
+21435,ELEC,Sweet Union Brewing,Indian Trail,NC,28079,E,Public,35.08615944,-80.65983159,121311,2019-05-14 21:16:45 UTC,US,Public,public
+21436,ELEC,Indian Trail Chrysler Dodge Jeep Ram,Monroe,NC,28110,E,Public - Call ahead,35.058525,-80.632095,121312,2019-06-06 17:52:59 UTC,US,Public - Appeler à l'avance,public
+21437,ELEC,Whole Foods Market,Charlotte,NC,28277,E,Public,35.05123,-80.766313,121313,2019-05-14 21:16:45 UTC,US,Public,public
+21438,ELEC,SpringHill Suites - Charlotte Ballantyne Area,Charlotte,NC,28277,E,Public,35.071141,-80.842189,121314,2019-05-14 21:16:45 UTC,US,Public,public
+21493,ELEC,ADMIN COMPLEX,Trenton,NC,28585,E,Public,35.0436537,-77.352303,121551,2019-11-14 10:14:28 UTC,US,Public,public
+21494,ELEC,ADMIN COMPLEX,Trenton,NC,28585,E,Public,35.0677504,-77.3630208,121552,2019-11-14 10:14:28 UTC,US,Public,public
+21543,ELEC,High Point Public Library,High Point,NC,27262,E,Public,35.966146,-80.01336,121644,2019-05-14 21:16:45 UTC,US,Public,public
+21683,ELEC,Walmart 2256 Henderson,Henderson,NC,27536,E,Public,36.334674,-78.442161,121801,2019-11-14 10:55:07 UTC,US,Public,public
+21688,ELEC,"Sheetz 504 (Rocky Mount, NC)",Rocky Mount,NC,27804,E,Public,35.97208,-77.895654,121806,2019-11-14 10:55:07 UTC,US,Public,public
+21689,ELEC,"Walmart 5254 - Wake Forest, NC",Wake Forest,NC,27587,E,Public,35.951539,-78.533981,121807,2019-11-14 10:55:07 UTC,US,Public,public
+21691,ELEC,Pleasant Valley Promenade,Raleigh,NC,27612,E,Public,35.857314,-78.703585,121809,2019-11-14 10:55:07 UTC,US,Public,public
+21694,ELEC,"Sam's Club 6452 (Asheville, NC)",Asheville,NC,28806,E,Public,35.591191,-82.581595,121812,2019-11-14 10:55:07 UTC,US,Public,public
+21742,ELEC,Hampton Inn - Benson,Benson,NC,27504,E,Public,35.374273,-78.54178,121862,2019-05-14 21:16:45 UTC,US,Public,public
+21899,ELEC,CITY OF DURHAM,Durham,NC,27701,E,Public,35.997667,-78.898857,122216,2019-11-14 10:14:28 UTC,US,Public,public
+21929,ELEC,Holiday Inn Express - Plymouth - Tesla Supercharger,Plymouth,NC,27962,E,Public,35.862654,-76.732175,122272,2019-05-09 14:33:40 UTC,US,Public,public
+22117,ELEC,Hyatt Place Chapel Hill Southern Village - Tesla Destination,Chapel Hill,NC,27517,E,Public,35.902408,-79.032347,122499,2019-05-09 14:33:40 UTC,US,Public,public
+22118,ELEC,237 S Tryon St Garage - Tesla Destination,Charlotte,NC,28202,E,Public,35.225958,-80.844521,122500,2019-05-09 14:33:40 UTC,US,Public,public
+22234,ELEC,WINSTON-SALEM,Winston-Salem,NC,27101,E,Public,36.0991115,-80.2426653,122662,2019-11-14 10:14:28 UTC,US,Public,public
+22235,ELEC,WINSTON-SALEM,Winston-Salem,NC,27101,E,Public,36.0823302,-80.2406575,122664,2019-11-14 10:14:28 UTC,US,Public,public
+22268,ELEC,"Walmart 1155 (Lumberton, NC)",Lumberton,NC,28358,E,Public,34.665058,-79.006662,122719,2019-11-14 10:55:07 UTC,US,Public,public
+22670,ELEC,Captrust Tower,Raleigh,NC,27609,E,Public,35.8370151,-78.640051,123246,2019-06-06 17:52:59 UTC,US,Public,public
+22671,ELEC,Public Parking,Conover,NC,28613,E,Public,35.7026686,-81.220209,123247,2019-06-06 17:52:59 UTC,US,Public,public
+22690,ELEC,Park Central Apartments,Raleigh,NC,27609,E,Public,35.8379882,-78.638219,123267,2019-06-06 17:52:59 UTC,US,Public,public
+22748,ELEC,Verizon - Charlotte,Charlotte,NC,28227,E,Private,35.146862,-80.728887,123325,2019-08-08 15:38:00 UTC,US,Privé,private
+22775,ELEC,Verizon - Cary,Cary,NC,27513,E,Private,35.830871,-78.791809,123352,2019-08-08 15:38:00 UTC,US,Privé,private
+22887,ELEC,Bank of America - Financial Center,Charlotte,NC,28202,E,Public,35.230261,-80.839631,123510,2019-06-06 17:52:59 UTC,US,Public,public
+22927,ELEC,CROWN HONDA,Greensboro,NC,27407,E,Public,36.059267,-79.869511,123583,2019-11-14 10:14:28 UTC,US,Public,public
+22971,ELEC,Solice Southline,Charlotte,NC,28203,E,Public,35.203181,-80.6558,123651,2019-11-14 09:08:08 UTC,US,Public,public
+23003,ELEC,"SHEETZ 647- Hillsborough, NC",Hillsborough,NC,27278,E,Public,36.057066,-79.080076,123770,2019-11-14 10:55:07 UTC,US,Public,public
+23067,ELEC,Publix #1473,Asheville,NC,28803,E,Public,35.50344,-82.52405,124563,2019-07-09 17:26:18 UTC,US,Public,public
+23114,ELEC,"Walmart 2134 - Charlotte, NC",Charlotte,NC,28262,E,Public,35.295553,-80.756552,125139,2019-11-14 10:55:07 UTC,US,Public,public
+23143,ELEC,"Target 0961 - Cary, NC",Cary,NC,20013,E,Public,35.758507,-78.738918,126637,2019-11-14 10:55:07 UTC,US,Public,public
+23169,ELEC,Harris Teeter - Tesla Supercharger,Kill Devil Hills,NC,27948,E,Public,35.993228,-75.651304,127951,2019-08-08 15:38:00 UTC,US,Public,public
+23185,ELEC,Sheetz #471 - Tesla Supercharger,Henderson,NC,27536,E,Public,36.329094,-78.447811,127967,2019-08-08 15:38:00 UTC,US,Public,public
+23186,ELEC,Sheetz #490 - Tesla Supercharger,Mt. Airy,NC,27030,E,Public,36.458862,-80.636663,127968,2019-08-08 15:38:00 UTC,US,Public,public
+23226,ELEC,Ingles Market,Weaverville,NC,28787,E,Public,35.702679,-82.566669,131995,2019-08-08 15:38:00 UTC,US,Public,public
+23271,ELEC,Carolina Premium Outlets,Smithfield,NC,27577,E,Public,35.508114,-78.315052,137139,2019-11-14 10:55:07 UTC,US,Public,public
+23278,ELEC,Historic Tapoco Lodge,Robbinsville,NC,28771,E,Public,35.443895,-83.943754,137153,2019-08-08 15:38:00 UTC,US,Public,public
+23365,ELEC,ENERGY UNITED,Lexington,NC,27295,E,Public,35.8035862,-80.2925331,143144,2019-11-14 10:14:28 UTC,US,Public,public
+23383,ELEC,FBHDCHARGING,Fayetteville,NC,28303,E,Public,35.078682,-78.95002,143164,2019-11-14 10:14:28 UTC,US,Public,public
+23392,ELEC,SPEEDWAY HD,Concord,NC,28027,E,Public,35.364433,-80.71057,143174,2019-11-14 10:14:28 UTC,US,Public,public
+23397,ELEC,NORTH HILLS,Raleigh,NC,27609,E,Public,35.836906,-78.63726,143180,2019-11-14 10:14:28 UTC,US,Public,public
+23427,ELEC,ENERGY UNITED,Statesville,NC,28625,E,Public,35.809261,-80.8108757,143211,2019-11-14 10:14:28 UTC,US,Public,public
+23499,ELEC,WHOLE FOODS MKT,Huntersville,NC,28078,E,Public,35.444036,-80.871658,143294,2019-11-14 10:14:28 UTC,US,Public,public
+23515,ELEC,RIDING HIGH H-D,High Point,NC,27265,E,Public,36.062581,-79.959277,143311,2019-11-14 10:14:28 UTC,US,Public,public
+23544,ELEC,ENERGY UNITED,Madison,NC,27025,E,Public,36.3793914,-79.9476053,143340,2019-11-14 10:14:28 UTC,US,Public,public
+23551,ELEC,TOBACCOROADHD,Raleigh,NC,27603,E,Public,35.764973,-78.64961,143347,2019-11-14 10:14:28 UTC,US,Public,public
+23566,ELEC,WHOLE FOODS MKT,Cary,NC,27519,E,Public,35.833866,-78.8821192,143362,2019-11-14 10:14:28 UTC,US,Public,public
+23730,ELEC,NOVEL MONTFORD,Charlotte,NC,28209,E,Public,35.1668,-80.849396,143533,2019-11-14 10:14:28 UTC,US,Public,public
+23773,ELEC,119 SOUTH,Morrisville,NC,27560,E,Public,35.9006262,-78.8042668,143579,2019-11-14 10:14:28 UTC,US,Public,public
+23780,ELEC,MODERN TOYOTA,Winston-Salem,NC,27127,E,Public,36.045711,-80.26304,143587,2019-11-14 10:14:28 UTC,US,Public,public
+23932,ELEC,MetLife - Cary,Cary,NC,27513,E,Private,35.830019,-78.799133,143810,2019-09-09 14:29:53 UTC,US,Privé,private
+23933,ELEC,MetLife - Charlotte,Charlotte,NC,28277,E,Private,35.055125,-80.835756,143811,2019-09-09 14:29:53 UTC,US,Privé,private
+23938,ELEC,PC MUSUEM,Roxboro,NC,27573,E,Public,36.39612,-78.98161,143818,2019-11-14 10:14:28 UTC,US,Public,public
+23940,ELEC,WHOLE FOODS MKT,Wilmington,NC,28403,E,Public,34.214035,-77.9012353,143821,2019-11-14 10:14:28 UTC,US,Public,public
+23965,ELEC,ENERGY UNITED,Cornelius,NC,28031,E,Public,35.4570519,-80.8431955,143869,2019-11-14 10:14:28 UTC,US,Public,public
+23983,ELEC,"Walmart 5320 - Greensboro, NC",Greensboro,NC,27406,E,Public,36.003147,-79.798187,143893,2019-11-14 10:55:07 UTC,US,Public,public
+24211,ELEC,SD3#1,Matthews,NC,28105,E,Public,35.105824,-80.69647,144981,2019-11-14 10:14:28 UTC,US,Public,public
+24244,ELEC,BLOWING ROCK,Blowing Rock,NC,28605,E,Public,36.141733,-81.66983,145085,2019-11-14 10:14:28 UTC,US,Public,public
+24317,ELEC,WF EV STATIONS,Wake Forest,NC,27587,E,Public,35.9763855,-78.5081784,145218,2019-11-14 10:14:28 UTC,US,Public,public
+24318,ELEC,WF EV STATIONS,Wake Forest,NC,27587,E,Public,35.97614,-78.5087763,145219,2019-11-14 10:14:28 UTC,US,Public,public
+24322,ELEC,720 GARAGE,Charlotte,NC,28202,E,Public,35.224454,-80.850048,145223,2019-11-14 10:14:28 UTC,US,Public,public
+24323,ELEC,720 GARAGE,Charlotte,NC,28202,E,Public,35.223828,-80.850717,145224,2019-11-14 10:14:28 UTC,US,Public,public
+24465,ELEC,Mills Rentals,Carrboro,NC,27510,E,Public - Card key at all times,35.909422,-79.071185,145473,2019-10-04 14:44:17 UTC,US,Public - Carte-clé en tout temps,public
+24477,ELEC,Mooresville Ford,Mooresville,NC,28115,E,Public,35.589615,-80.834215,145491,2019-10-04 14:44:17 UTC,US,Public,public
+24716,ELEC,Sheetz - Tesla Supercharger,Smithfield,NC,27577,E,Public,35.505015,-78.325604,146709,2019-11-08 19:38:10 UTC,US,Public,public
+24771,ELEC,WFM - SOUTH,Asheville,NC,28805,E,Public,35.5824808,-82.5235622,146880,2019-11-14 10:14:28 UTC,US,Public,public
+24772,ELEC,COC,Charlotte,NC,28216,E,Public,35.3305497,-80.9387252,146881,2019-11-14 10:14:28 UTC,US,Public,public
+24860,ELEC,SAS Institute Inc - A,Cary,NC,27513,E,Private,35.81617,-78.747624,146978,2019-11-08 19:38:10 UTC,US,Privé,private
+24949,ELEC,CHARGER123,New Bern,NC,28562,E,Public,35.09647,-77.109276,147113,2019-11-14 10:14:28 UTC,US,Public,public
+24969,ELEC,The Carolinian on Glenwood,Raleigh,NC,27608,E,Public,35.81717,-78.659529,147138,2019-11-14 09:08:08 UTC,US,Public,public
+25028,ELEC,TOWN OF CARY,Cary,NC,27511,E,Public,35.783204,-78.779344,147303,2019-11-14 10:14:28 UTC,US,Public,public
+25029,ELEC,TOWN OF CARY,Cary,NC,27511,E,Public,35.7854,-78.7795,147304,2019-11-14 10:14:28 UTC,US,Public,public
+25030,ELEC,TOWN OF CARY,Cary,NC,27511,E,Public,35.785387,-78.7797012,147305,2019-11-14 10:14:28 UTC,US,Public,public
+25040,ELEC,City of Raleigh - Moore Square Deck,Raleigh,NC,27601,E,Public,35.777463,-78.637505,147315,2019-11-08 19:38:10 UTC,US,Public,public
+25102,ELEC,DC FAST CHARGER,Lenoir,NC,28645,E,Public,35.9348435,-81.5313956,147405,2019-11-14 10:14:28 UTC,US,Public,public
+25122,ELEC,PowerSecure,Wake Forest,NC,27587,E,Private,35.951814,-78.515486,147449,2019-11-08 19:38:10 UTC,US,Privé,private
+25127,ELEC,Skyland Exchange,Asheville,NC,28803,E,Private,35.52993,-82.609809,147454,2019-11-14 09:08:08 UTC,US,Privé,private
+25141,ELEC,ACCESSO SERVICE,Durham,NC,27713,E,Public,35.9120702,-78.9035743,147472,2019-11-14 10:14:28 UTC,US,Public,public
+25142,ELEC,ACCESSO SERVICE,Durham,NC,27713,E,Public,35.913395,-78.90265,147473,2019-11-14 10:14:28 UTC,US,Public,public
+25143,ELEC,ACCESSO SERVICE,Durham,NC,27713,E,Public,35.9103096,-78.8982906,147474,2019-11-14 10:14:28 UTC,US,Public,public
+25146,ELEC,McDonald's Store #27548,Cary,NC,27518,E,Public,35.704118,-78.795636,147491,2019-11-14 09:08:08 UTC,US,Public,public
+25205,ELEC,CAPE HATTERAS,Avon,NC,27915,E,Public,35.3469903,-75.5035586,147587,2019-11-14 10:14:28 UTC,US,Public,public
+26101,ELEC,Klingspor Abrasives,Hickory,NC,28602,E,Public,35.725097,-81.282414,148510,2019-11-14 10:11:07 UTC,US,Public,public
+26144,ELEC,Bob Barker Company,Fuquay Varina,NC,27526,E,Public,35.586162,-78.79956,148553,2019-11-14 10:11:07 UTC,US,Public,public
+26145,ELEC,Purfoy Charger 1,Fuquay Varina,NC,27526,E,Public,35.581498,-78.770625,148554,2019-11-14 10:11:07 UTC,US,Public,public
+26187,ELEC,Barrier Island Station,Duck,NC,27949,E,Public,36.1749154,-75.7556629,148596,2019-11-14 10:11:07 UTC,US,Public,public
+26352,ELEC,Homewood Suites Wilmington Mayfaire,Wilmington,NC,28405,E,Public,34.2380943,-77.832522,148761,2019-11-14 10:11:07 UTC,US,Public,public
+26353,ELEC,Veterans Park Apartments,Wilmington,NC,28412,E,Public,34.0961969,-77.9188768,148762,2019-11-14 10:11:07 UTC,US,Public,public
