@@ -1,4 +1,4 @@
-# Working with Spatially Enabled DataFrames 
+# Working with Spatial DataFrames 
 
 ### Geopandas, Shapely, and Fiona (and GDAL)
 
@@ -27,12 +27,65 @@ Prior to running these notebooks, however, we'll have create a new Conda environ
 
 
 
-| Notebook                      | Learning Objectives                                          |
-| ----------------------------- | ------------------------------------------------------------ |
-| 1. CSV to SDF                 | **GeoPandas & GeoDataFrames<br />• Create, edit, & describe properties of **geometric objects** using **Shapely**<br />• Create a **GeoSeries** from a list of coordinate pairs<br/>• Convert a dataframe with coordinate fields into a **GeoDataframe**<br />• Look up and use WKIDs to define coordinate reference systems in geodataframes<br />• Explore properties of geodataframes<br />• Make simple plots of spatial features in geodataframes<br />**ArcGIS Python API & Spatially Enabled Dataframes**<br />• Convert dataframes with coordinate fields into a Spatial Dataframe<br />• Explore properties of spatial dataframes<br />• Reproject a spatial dataframe<br />• Make simple maps of spatial dataframe features<br />• Translate between spatial dataframes and geodataframes |
-| 2a. Feature Class to GDF      | • Importing **shapefiles into geodataframes** using GeoPandas<br />• Creating **choropleth maps** from geodataframes<br />• Importing **GeoJSON files into geodataframes** using GeoPandas |
-| 2b. Feature Class to SDF      | • Importing **shapefiles into spatial dataframes** using the ArcGIS Python API<br />• Quick maps with **spatial dataframes**<br />• Importing **AGOL feature services into spatial dataframes** |
-| 3. Spatial analysis with SDFs | • Execute the "**data science workflow**" with a GeoPandas<br />  - **Read data** into a geodataframe (CSV and GeoJSON)<br />  - **Explore the data**: columns/column types, summaries, plots<br />  - **Analyze** the data...<br />  - **Visualize** results<br />• **Subset features** in a geodataframe by **attribute**<br />• **Merge geodataframes**<br />• **Dissolve geodataframe features** based on an attribute value<br />• **Join attributes** to a geodataframe<br />• **Spatially join** data from one geodataframe to another<br />• Generate various **plots** from single and multiple geodataframes<br />• **Saving a geodataframe** to a feature class |
 
----
+| **Notebook**                                                 | **Learning Objectives**                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **1a. Creating spatial dataframes<br />&emsp;using Geopandas** | **Geopandas and GeoDataFrames<br />• Contrast a **spatial dataframe** to a typical dataframe<br />• List the two **Python libraries** used for creating and working with spatial dataframes<br />• Create a GeoPandas **GeoDataFrame** from a **CSV file** containing spatial coordinates<br />&emsp;- Construct a **GeoSeries** object from coordinate columns in a Pandas dataframe<br />&emsp;- Lookup the **ESPG code** or **WKID** for a given coordinate reference system<br />&emsp;- Construct a **GeoDataFrame** from a GeoSeries object and an EPSG code/WKID<br />• Explore the **properties** of GeoDataFrames<br />• **Transform** (reproject) a GeoDataFrames<br />• Make simple **plots** of GeoDataFrames<br />• Create a GeoDataFrame from an existing **ShapeFile**<br />• Understand the role the **Fiona** package plays in creating GeoDataFrames from various file formats<br />• Create a GeoDataFrame from a **GeoJSON** file<br />• Create a GeoDataFrame from an existing **KML** |
+| **1b. Creating spatial dataframes<br />&nbsp;&emsp;using the ArcGIS API for Python** | **ArcGIS Python API & Spatially Enabled Dataframes**<br />• Convert CSV files with coordinate fields into a Spatial Dataframe<br />• Explore properties of spatial dataframes<br />• Create a Spatial Dataframe from an existing feature class<br />• Create a Spatial Dataframe from a feature layer service<br />• Reproject a Spatial Dataframe<br />• Make simple maps of spatial dataframe features |
+| **3. Spatial analysis w/ GeoDataFrames**                     | • Execute the "**data science workflow**" with a GeoPandas<br />  - **Read data** into a geodataframe (CSV and GeoJSON)<br />  - **Explore the data**: columns/column types, summaries, plots<br />  - **Analyze** the data...<br />  - **Visualize** results<br />• **Subset features** in a geodataframe by **attribute**<br />• **Merge geodataframes**<br />• **Dissolve geodataframe features** based on an attribute value<br />• **Join attributes** to a geodataframe<br />• **Spatially join** data from one geodataframe to another<br />• Generate various **plots** from single and multiple geodataframes<br />• **Saving a geodataframe** to a feature class |
 
+## Section Prep
+
+#### 1. Create a new Conda environment ("`gis`") and install necessary packages
+
+This section involves several new Python packages that we'll have to install. As we can't be sure these will conflict with existing packages, we'll create a new Conda environment and install our packages in that environment. We'll call this environment `gis` to maintain consistency with my documentation and files. 
+
+Recall that to create a new environment, we first need to **open your Python Command Prompt**. From there, run the following commands. (You can skip the comment lines, there to explain what each command does...)
+
+```
+# Create a fresh environment
+conda create -n gis 
+
+# Activate the environment
+activate gis
+
+# Install packages from the "conda-forge" channel
+conda install -c conda-forge jupyter geopandas matplotlib geojson mapclassify contextily folium mplleaflet osmnx -y
+
+# Install more packages from the "conda-forge" channel
+conda install -c conda-forge geoplot pysal rasterstats pycrs -y
+
+```
+
+#### 2. Fork and clone the `SpatialDataframes` repository
+
+The notebooks for this section are included in the repository <https://github.com/env859/SpatialDataFrames>. 
+
+* Fork the repository to your own GitHub account
+* Clone the forked repository (using Git Bash or GitHub desktop) to your local machine.
+
+
+
+#### 3. Create a new Jupyter Notebooks shortcut and run it
+
+The repository has a shortcut to run Jupyter Notebooks using your new environment, but it's good practice to create one yourself. 
+
+* Navigate into your newly cloned repository.
+
+* Create a new text file and rename it "RunJupyter.bat".
+
+* Open the text file in a text editor and add the lines
+
+  ```
+  @set the_env=gis
+  call "C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\activate.bat" "%the_env%"
+  call "%localappdata%\ESRI\conda\envs\%the_env%\scripts\jupyter-notebook.exe" %cd% 
+  call "C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\deactivate.bat"
+  ```
+
+  > * Line 1 creates a system variable named "the_env", setting its value to "gis" (the name of the Conda environment created earlier). 
+  > * Line 2 activates this Conda environment. (Note the use of the variable set in line 1...)
+  > * Line 3 executes the command to start Jupyter notebook stored in the Conda environments installation folder.
+  > * Line 4 deactivates the Conda environment. This line will run once Jupyter is closed. 
+
+* After this you should be good to go!
