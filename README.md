@@ -32,7 +32,7 @@ Prior to running these notebooks, however, we'll have create a new Conda environ
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **1a. Creating spatial dataframes<br />&emsp;using Geopandas** | **Geopandas and GeoDataFrames<br />• Contrast a **spatial dataframe** to a typical dataframe<br />• List the two **Python libraries** used for creating and working with spatial dataframes<br />• Create a GeoPandas **GeoDataFrame** from a **CSV file** containing spatial coordinates<br />&emsp;- Construct a **GeoSeries** object from coordinate columns in a Pandas dataframe<br />&emsp;- Lookup the **ESPG code** or **WKID** for a given coordinate reference system<br />&emsp;- Construct a **GeoDataFrame** from a GeoSeries object and an EPSG code/WKID<br />• Explore the **properties** of GeoDataFrames<br />• **Transform** (reproject) a GeoDataFrames<br />• Make simple **plots** of GeoDataFrames<br />• Create a GeoDataFrame from an existing **ShapeFile**<br />• Understand the role the **Fiona** package plays in creating GeoDataFrames from various file formats<br />• Create a GeoDataFrame from a **GeoJSON** file<br />• Create a GeoDataFrame from an existing **KML** |
 | **1b. Creating spatial dataframes<br />&nbsp;&emsp;using the ArcGIS API for Python** | **ArcGIS Python API & Spatially Enabled Dataframes**<br />• Convert CSV files with coordinate fields into a Spatial Dataframe<br />• Explore properties of spatial dataframes<br />• Create a Spatial Dataframe from an existing feature class<br />• Create a Spatial Dataframe from a feature layer service<br />• Reproject a Spatial Dataframe<br />• Make simple maps of spatial dataframe features |
-| **3. Spatial analysis w/ GeoDataFrames**                     | • Execute the "**data science workflow**" with a GeoPandas<br />  - **Read data** into a geodataframe (CSV and GeoJSON)<br />  - **Explore the data**: columns/column types, summaries, plots<br />  - **Analyze** the data...<br />  - **Visualize** results<br />• **Subset features** in a geodataframe by **attribute**<br />• **Merge geodataframes**<br />• **Dissolve geodataframe features** based on an attribute value<br />• **Join attributes** to a geodataframe<br />• **Spatially join** data from one geodataframe to another<br />• Generate various **plots** from single and multiple geodataframes<br />• **Saving a geodataframe** to a feature class |
+| **2. Spatial analysis w/ GeoDataFrames**                     | • Execute the "**data science workflow**" with a GeoPandas<br />  - **Read data** into a geodataframe (CSV and GeoJSON)<br />  - **Explore the data**: columns/column types, summaries, plots<br />  - **Analyze** the data...<br />  - **Visualize** results<br />• **Subset features** in a geodataframe by **attribute**<br />• **Merge geodataframes**<br />• **Dissolve geodataframe features** based on an attribute value<br />• **Join attributes** to a geodataframe<br />• **Spatially join** data from one geodataframe to another<br />• Generate various **plots** from single and multiple geodataframes<br />• **Saving a geodataframe** to a feature class |
 
 ## Section Prep
 
@@ -49,12 +49,14 @@ conda create -n gis
 # Activate the environment
 activate gis
 
+# Install mamba
+conda install -c conda-forge mamba -y
+
 # Install packages from the "conda-forge" channel
-conda install -c conda-forge jupyter geopandas matplotlib geojson mapclassify contextily folium mplleaflet osmnx -y
+mamba install -c conda-forge jupyter geopandas matplotlib geojson mapclassify contextily folium mplleaflet osmnx -y
 
 # Install more packages from the "conda-forge" channel
-conda install -c conda-forge geoplot pysal rasterstats pycrs -y
-
+mamba install -c conda-forge geoplot pysal rasterstats pycrs -y
 ```
 
 #### 2. Fork and clone the `SpatialDataframes` repository
