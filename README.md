@@ -49,14 +49,12 @@ conda create -n gis
 # Activate the environment
 activate gis
 
-# Install mamba
-conda install -c conda-forge mamba -y
+# Install geopandas using pip
+pip install geopandas
 
-# Install packages from the "conda-forge" channel
-mamba install -c conda-forge jupyter geopandas matplotlib geojson mapclassify contextily folium mplleaflet osmnx -y
-
-# Install more packages from the "conda-forge" channel
-mamba install -c conda-forge geoplot pysal rasterstats pycrs -y
+# Install additional packages
+conda install leaflet -y
+conda install -c conda-forge contextily
 ```
 
 #### 2. Fork and clone the `SpatialDataframes` repository
