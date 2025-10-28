@@ -53,7 +53,7 @@ activate gis
 pip install geopandas
 
 # Install additional packages
-conda install fiona
+conda install fiona -y
 conda install -c conda-forge contextily -y
 ```
 
