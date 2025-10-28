@@ -44,7 +44,7 @@ Recall that to create a new environment, we first need to **open your Python Com
 
 ```
 # Create a fresh environment
-conda create -n gis 
+conda create --clone arcgispro-py3 --name gis
 
 # Activate the environment
 activate gis
@@ -53,8 +53,8 @@ activate gis
 pip install geopandas
 
 # Install additional packages
-conda install leaflet -y
-conda install -c conda-forge contextily
+conda install fiona
+conda install -c conda-forge contextily -y
 ```
 
 #### 2. Fork and clone the `SpatialDataframes` repository
