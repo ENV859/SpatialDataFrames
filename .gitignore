@@ -1,9 +1,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Spyder project settings
-.spyderproject
-.spyproject
 
 # Scripts
 scripts/*
